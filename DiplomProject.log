@@ -1,0 +1,2237 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=latex 2013.4.8)  23 NOV 2013 21:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**DiplomProject
+(./DiplomProject.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen104
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/russianb.ldf
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Russian'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@russian = a dialect from \language0
+Package babel Info: Making " an active character on input line 199.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks23
+\float@box=\box28
+\@float@everytoks=\toks24
+\@floatcapt=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count102
+\LTcapwidth=\dimen116
+\LT@head=\box30
+\LT@firsthead=\box31
+\LT@foot=\box32
+\LT@lastfoot=\box33
+\LT@cols=\count103
+\LT@rows=\count104
+\c@LT@tables=\count105
+\c@LT@chunks=\count106
+\LT@p@ftn=\toks26
+) (./misccorr.sty
+Package: misccorr 1999/09/23 v0.0a misc corrections for russian typesetting
+\c@rlistctr=\count107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen117
+\Gm@wd@mp=\dimen118
+\Gm@odd@mp=\dimen119
+\Gm@even@mp=\dimen120
+\Gm@layoutwidth=\dimen121
+\Gm@layoutheight=\dimen122
+\Gm@layouthoffset=\dimen123
+\Gm@layoutvoffset=\dimen124
+\Gm@dimlist=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip50
+\f@ncyO@elh=\skip51
+\f@ncyO@erh=\skip52
+\f@ncyO@olh=\skip53
+\f@ncyO@orh=\skip54
+\f@ncyO@elf=\skip55
+\f@ncyO@erf=\skip56
+\f@ncyO@olf=\skip57
+\f@ncyO@orf=\skip58
+)
+(./DiplomProject.aux
+
+LaTeX Warning: Label `mainpart' multiply defined.
+
+)
+\openout1 = `DiplomProject.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=745.46222pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-68.59087pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./DiplomProject-Title.tex [1
+
+]) (./DiplomProject.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 36.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2
+
+])
+\tf@toc=\write3
+\openout3 = `DiplomProject.toc'.
+
+ (./Intro.tex [3]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
+
+Overfull \hbox (19.65547pt too wide) in paragraph at lines 5--7
+[]\T2A/cmr/m/n/14.4 Задача анализа времени ответа студента в системах дистанцио
+нного обучения
+ []
+
+
+Overfull \hbox (20.03294pt too wide) in paragraph at lines 5--7
+\T2A/cmr/m/n/14.4 является одним из приоритетных направлений области дистанцион
+ного обучения
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+
+Overfull \hbox (44.59705pt too wide) in paragraph at lines 8--9
+[]\T2A/cmr/m/n/14.4 не обладает ли студент ответами на некоторые (или все) зада
+чи дистанционного
+ []
+
+
+Overfull \hbox (2.9249pt too wide) in paragraph at lines 10--11
+[]\T2A/cmr/m/n/14.4 удачно ли сформулированы задачи теста (или понимание услови
+я задачи
+ []
+
+
+Overfull \hbox (19.11363pt too wide) in paragraph at lines 16--17
+[]\T2A/cmr/m/it/14.4 Объектом исследования \T2A/cmr/m/n/14.4 дипломной работы я
+вляется поведение обучающихся
+ []
+
+
+Overfull \hbox (3.83617pt too wide) in paragraph at lines 18--19
+\T2A/cmr/m/n/14.4 студент отвечает на задачи, предлагаемые системой дистанционн
+ого обучения. 
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 20.
+
+[4
+
+]
+Overfull \hbox (10.7168pt too wide) in paragraph at lines 22--23
+[]\T2A/cmr/m/n/14.4 Целью дипломной работы является оценка поведения студента н
+а основании
+ []
+
+
+Overfull \hbox (4.05814pt too wide) in paragraph at lines 24--25
+[]\T2A/cmr/m/n/14.4 Основные задачи, которые решить для для достижения поставле
+нной цели: 
+ []
+
+
+Overfull \hbox (15.5037pt too wide) in paragraph at lines 27--28
+[]\T2A/cmr/m/n/14.4 построение математических моделей, описывающих предмет иссл
+едования 
+ []
+
+
+Overfull \hbox (38.14687pt too wide) in paragraph at lines 31--32
+[]\T2A/cmr/m/n/14.4 решение поставленной цели - поиск отклонений в новых данных
+, поступающих
+ []
+
+
+Overfull \hbox (32.6272pt too wide) in paragraph at lines 31--32
+\T2A/cmr/m/n/14.4 в систему дистанционного обучения, с помощью построенной мате
+матической
+ []
+
+) (./Ch1.tex
+Overfull \hbox (12.2373pt too wide) in paragraph at lines 42--1
+[]\T2A/cmr/m/n/14.4 Введение раскрывает актуальность, определяет степень научно
+й разработки
+ []
+
+
+Overfull \hbox (59.80685pt too wide) in paragraph at lines 42--1
+\T2A/cmr/m/n/14.4 темы, объект, предмет, цель, задачи и методы исследования, ра
+скрывает теоретическую
+ []
+
+
+Overfull \hbox (6.50676pt too wide) in paragraph at lines 42--1
+\T2A/cmr/m/n/14.4 и прак-тическую значимость работы. В Главе 1 рассматриваются 
+теоретические
+ []
+
+
+Overfull \hbox (19.65863pt too wide) in paragraph at lines 42--1
+\T2A/cmr/m/n/14.4 формулируются итоги проведјнного исследования и выводы по рас
+сматриваемой
+ []
+
+[5] [6]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+Overfull \hbox (9.57605pt too wide) in paragraph at lines 5--7
+[]\T2A/cmr/m/n/14.4 Теоретические исследования в области построения математичес
+ких моделей
+ []
+
+
+Overfull \hbox (0.80629pt too wide) in paragraph at lines 5--7
+\T2A/cmr/m/n/14.4 процесса выполнения заданий играют огромную роль в современны
+х системах
+ []
+
+
+Overfull \hbox (5.7434pt too wide) in paragraph at lines 5--7
+\T2A/cmr/m/n/14.4 обучения. Одним из вопросов, которые исследуются в данной обл
+асти является
+ []
+
+
+Overfull \hbox (8.39763pt too wide) in paragraph at lines 8--9
+\T2A/cmr/m/n/14.4 bury) (1951, 1963), который использовал стохастические модели
+ для количества
+ []
+
+
+Overfull \hbox (26.24779pt too wide) in paragraph at lines 10--11
+\T2A/cmr/m/n/14.4 tests). При прохождении теста на скорость студенту предлагало
+сь за ограниченное
+ []
+
+
+Overfull \hbox (11.2737pt too wide) in paragraph at lines 10--11
+\T2A/cmr/m/n/14.4 время решить максимально возможное количество задач самого ни
+зкого уровня
+ []
+
+
+Overfull \hbox (30.67725pt too wide) in paragraph at lines 10--11
+\T2A/cmr/m/n/14.4 - таким образом Галексен пытался оценить скорость, с которой 
+студеты принимают
+ []
+
+
+Overfull \hbox (22.68324pt too wide) in paragraph at lines 10--11
+\T2A/cmr/m/n/14.4 оценить именно уровень знаний, без привязки к скорости, с кот
+орой обучающийся
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 12.
+
+[7
+
+]
+Overfull \hbox (14.1062pt too wide) in paragraph at lines 12--13
+\T2A/cmr/m/n/14.4 как учесть время, за которое студент дал неверный ответ и нуж
+но его учитывать
+ []
+
+
+Overfull \hbox (6.3291pt too wide) in paragraph at lines 12--13
+\T2A/cmr/m/n/14.4 вообще? Во-вторых, здравый смысл подсказывает, что время нужн
+о учитывать
+ []
+
+
+Overfull \hbox (17.39091pt too wide) in paragraph at lines 14--15
+[]\T2A/cmr/m/n/14.4 Одним из первых исследователей, который пытался решить даны
+е проблемы,
+ []
+
+
+Overfull \hbox (23.70393pt too wide) in paragraph at lines 14--15
+\T2A/cmr/m/n/14.4 был Терстоун (Thur-stone) (1937). Он обратил свој внимание на
+ поиск взаимосвязи
+ []
+
+
+Overfull \hbox (19.83838pt too wide) in paragraph at lines 14--15
+\T2A/cmr/m/n/14.4 студента. Терстоун представил графическую модель такой взаимо
+связи, которую
+ []
+
+
+Overfull \hbox (17.9298pt too wide) in paragraph at lines 14--15
+\T2A/cmr/m/n/14.4 кривая ответа представляет собой график зависимости вероятнос
+ти правильного
+ []
+
+File: images/6.jpeg Graphic file (type eps)
+<images/6.jpeg>
+Overfull \hbox (31.24484pt too wide) in paragraph at lines 21--22
+\T2A/cmr/m/n/14.4 затраченным временем только для одного студента, т.е. не отра
+жает распределение
+ []
+
+
+Overfull \hbox (35.62367pt too wide) in paragraph at lines 21--22
+\T2A/cmr/m/n/14.4 студент затратит на задачу. При этом вероятность правиль-ного
+ ответа уменьшается
+ []
+
+
+Overfull \hbox (38.47803pt too wide) in paragraph at lines 21--22
+\T2A/cmr/m/n/14.4 исследо-ватель назвал сложность задач, на которые студент отв
+ечает с вероятностью
+ []
+
+[8]
+Overfull \hbox (61.89711pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 неочевидные недостатки. Во-первых, для ответов студента испол
+ьзуется стохастическая
+ []
+
+
+Overfull \hbox (5.74341pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 модель, в то время как время ответа считается детерминированн
+ым. Очевидно,
+ []
+
+
+Overfull \hbox (4.01302pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 что и ответы студента и время, которое студент затрачивает на
+ ответ являются
+ []
+
+
+Overfull \hbox (38.86456pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 следствиями одних и тех же когнитивных процессов - поэтому ло
+гично использовать
+ []
+
+
+Overfull \hbox (14.49417pt too wide) in paragraph at lines 23--24
+\T2A/cmr/m/n/14.4 задачи (сложность) и параметры студента (способность), при эт
+ом игнорируется
+ []
+
+
+Overfull \hbox (43.8638pt too wide) in paragraph at lines 28--29
+[]\T2A/cmr/m/n/14.4 оценить скорость, с который конкретный студент может решить
+ предложенную
+ []
+
+
+Overfull \hbox (53.3714pt too wide) in paragraph at lines 29--30
+[]\T2A/cmr/m/n/14.4 оценить время, которое может потребоваться студенту для пол
+ного прохождения
+ []
+
+
+Overfull \hbox (15.87808pt too wide) in paragraph at lines 30--31
+[]\T2A/cmr/m/n/14.4 сформировать список задач, который будет оптимальным для ко
+нкретного
+ []
+
+[9]
+Overfull \hbox (5.02043pt too wide) in paragraph at lines 33--34
+[]\T2A/cmr/m/n/14.4 Дипломная работа посвящена построению математической модели
+ времени
+ []
+
+
+Overfull \hbox (58.86032pt too wide) in paragraph at lines 33--34
+\T2A/cmr/m/n/14.4 отклонений в поведении студента на основании поступающей в си
+стему дистанционного
+ []
+
+
+Overfull \hbox (10.33711pt too wide) in paragraph at lines 37--38
+[]\T2A/cmr/m/n/14.4 Предметом дипломной работы является время, которое студент 
+затрачивает
+ []
+
+
+Overfull \hbox (30.87372pt too wide) in paragraph at lines 37--38
+\T2A/cmr/m/n/14.4 заданий в системе дистанционного обучения: например, два студ
+ента с одинаковым
+ []
+
+
+Overfull \hbox (9.17746pt too wide) in paragraph at lines 39--40
+\T2A/cmr/m/n/14.4 данную задачу исполь-зуется системой дистанционного обучения 
+для адаптации
+ []
+
+
+Overfull \hbox (12.0362pt too wide) in paragraph at lines 39--40
+\T2A/cmr/m/n/14.4 индивидуального задания, кото-рое формируется для студента. М
+атематическая
+ []
+
+
+LaTeX Warning: Reference `ch2' on page 10 undefined on input line 47.
+
+) (./Ch2.tex [10] [11]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
+
+Overfull \hbox (7.68295pt too wide) in paragraph at lines 5--6
+[]\T2A/cmr/m/n/14.4 Практика построения математических моделей, включающих врем
+я ответа,
+ []
+
+
+Overfull \hbox (6.31206pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/14.4 распределение вероятности правильного ответа студента использ
+уются в одной
+ []
+
+
+Overfull \hbox (11.63998pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/14.4 и той же модели. Второй подход - когда используются разные мо
+дели. Приведјм
+ []
+
+
+Overfull \hbox (82.09857pt too wide) detected at line 18
+[]
+ []
+
+
+Overfull \hbox (8.4179pt too wide) in paragraph at lines 22--23
+[]\T2A/cmr/m/n/14.4 Над моделью ответа, которая включает в себя время ответа, р
+аботал Роскам
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 25.
+
+[12
+
+]
+Overfull \hbox (4.84354pt too wide) in paragraph at lines 29--29
+[]\T2A/cmr/bx/n/17.28 Модель времени ответа, включающая корректность
+ []
+
+
+Overfull \hbox (22.51413pt too wide) in paragraph at lines 44--45
+[]\T2A/cmr/m/n/14.4 Таким образом, в модели Гавирии время ответа студента имеет
+ логнормальное 
+ []
+
+
+Overfull \hbox (26.62862pt too wide) in paragraph at lines 46--46
+[]\T2A/cmr/bx/n/17.28 Отдельные модели для времени ответа и корректности
+ []
+
+[13]
+Overfull \hbox (9.38635pt too wide) in paragraph at lines 62--64
+\T2A/cmr/m/n/14.4 где $\OML/cmm/m/it/14.4 ^^U$ \T2A/cmr/m/n/14.4 - параметр инт
+енсивности потока, который соответствует скорости чтения
+ []
+
+
+Overfull \hbox (11.10054pt too wide) in paragraph at lines 77--78
+[]\T2A/cmr/m/n/14.4 Разнообразные исследования в области психологии [ССЫЛКА] до
+казывают,
+ []
+
+
+Overfull \hbox (9.73535pt too wide) in paragraph at lines 77--78
+\T2A/cmr/m/n/14.4 ответа студента в системах дистанционного обучения так же явл
+ятся случайной
+ []
+
+[14]
+Overfull \hbox (16.83368pt too wide) in paragraph at lines 79--80
+[]\T2A/cmr/m/it/14.4 Предположение 1: \T2A/cmr/m/n/14.4 время ответа студента $
+\OML/cmm/m/it/14.4 t[]$ \T2A/cmr/m/n/14.4 является реализацией случайной
+ []
+
+
+Overfull \hbox (0.78952pt too wide) in paragraph at lines 98--99
+[]\T2A/cmr/m/n/14.4 Время, которое студент затрачивает при ответе на задачи тес
+та и скорость,
+ []
+
+
+Overfull \hbox (11.83179pt too wide) in paragraph at lines 98--99
+\T2A/cmr/m/n/14.4 студента остајтся неизменной. Исходя из этого предположения, 
+можно записать
+ []
+
+
+Overfull \hbox (1.38739pt too wide) in paragraph at lines 104--105
+[]\T2A/cmr/m/n/14.4 Для того, чтобы распределение времени ответа имело более си
+мметричный
+ []
+
+
+Overfull \hbox (13.94312pt too wide) in paragraph at lines 104--105
+\T2A/cmr/m/n/14.4 вид, к этому варажению обычно применяется логарифмическое пре
+образование,
+ []
+
+[15] [16]
+File: images/1.jpg Graphic file (type eps)
+ <images/1.jpg>
+Overfull \hbox (27.83916pt too wide) in paragraph at lines 124--125
+\T2A/cmr/m/n/14.4 для всех групп обучающихся и вероятностная модель распределен
+ия сложностных
+ []
+
+
+Overfull \hbox (13.73055pt too wide) in paragraph at lines 124--125
+\T2A/cmr/m/n/14.4 параметров задачи по всему пулу задач. Рассмотрим эти модели 
+более подробно. 
+ []
+
+
+Overfull \hbox (20.09657pt too wide) in paragraph at lines 129--130
+ \T2A/cmr/bx/n/14.4 Модель распределения параметров для множества студентов (ве
+рхний
+ []
+
+[17]
+Overfull \hbox (29.86836pt too wide) in paragraph at lines 144--145
+ \T2A/cmr/bx/n/14.4 Модель корректности ответа (нижний уровень)[] \T2A/cmr/m/n/
+14.4 Для модели корректности
+ []
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 146.
+
+Missing character: There is no б in font cmr12!
+
+Overfull \hbox (9.42725pt too wide) in paragraph at lines 153--154
+ \T2A/cmr/bx/n/14.4 Модель времени ответа (нижний уровень)[] \T2A/cmr/m/n/14.4 
+Время ответа студента имеет 
+ []
+
+
+Overfull \hbox (41.80418pt too wide) detected at line 172
+[]
+ []
+
+[18]
+Overfull \hbox (32.98705pt too wide) in paragraph at lines 206--207
+[]\T2A/cmr/m/n/14.4 Для прогнозирования времени ответа в модели используется по
+дход, описанный
+ []
+
+
+Overfull \hbox (33.4938pt too wide) in paragraph at lines 208--209
+[]\T2A/cmr/m/n/14.4 Обозначим прогнозное время ответа как $[]$. Тогда с учјтом 
+формул (3.16[]),(3.17[])
+ []
+
+[19]) (./Ch3.tex
+Overfull \hbox (22.6922pt too wide) in paragraph at lines 222--1
+[]\T2A/cmr/m/n/14.4 Таким образом, прогнозное время ответа студента на задачу и
+меет гауссовское 
+ []
+
+[20]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 4.
+
+Overfull \hbox (38.7108pt too wide) in paragraph at lines 5--6
+[]\T2A/cmr/m/n/14.4 Выражение для прогнозного времени ответа можно использовать
+ для выявления
+ []
+
+
+Overfull \hbox (4.63507pt too wide) in paragraph at lines 7--8
+[]\T2A/cmr/m/n/14.4 Отклонением прогноза будем разность между прогнозным времен
+ем ответа
+ []
+
+
+Overfull \hbox (3.0848pt too wide) in paragraph at lines 7--8
+\T2A/cmr/m/n/14.4 и фактичес-ким временем ответа студента. В логарифмической шк
+але разность
+ []
+
+
+Overfull \hbox (8.80582pt too wide) in paragraph at lines 12--13
+[]\T2A/cmr/m/n/14.4 Из этого отношения можно сделать вывод, что ошибка прогноза
+ - случайная
+ []
+
+
+Overfull \hbox (2.06018pt too wide) in paragraph at lines 17--18
+\T2A/cmr/m/n/14.4 задаче проверки статистической гипотезы о том, что реализации
+ $\OML/cmm/m/it/14.4 e[]$ \T2A/cmr/m/n/14.4 случайной
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 25.
+
+[21
+
+]
+Overfull \hbox (2.6984pt too wide) in paragraph at lines 29--30
+\T2A/cmr/m/n/14.4 моделей, описанных в Главе 3[] использовались реальные данные
+ пользователей
+ []
+
+
+Overfull \hbox (28.58923pt too wide) in paragraph at lines 29--30
+\T2A/cmr/m/n/14.4 системе не фиксировалось время, которое студент тратит на реш
+ение контрольных
+ []
+
+
+Overfull \hbox (37.34839pt too wide) in paragraph at lines 29--30
+\T2A/cmr/m/n/14.4 обучения и структуру базы данных, которая исполь-зуется систе
+мой дистанционного
+ []
+
+
+Overfull \hbox (10.89542pt too wide) in paragraph at lines 29--30
+\T2A/cmr/m/n/14.4 для всех существующих курсов (<<Математический анализ>>, <<Ли
+нейная алгебра
+ []
+
+
+Overfull \hbox (39.62827pt too wide) in paragraph at lines 29--30
+\T2A/cmr/m/n/14.4 и аналитическая геометрия>>, <<Теория вероятностей и математи
+ческая статистика>>). 
+ []
+
+
+Overfull \hbox (9.96584pt too wide) in paragraph at lines 31--32
+[]\T2A/cmr/m/n/14.4 После внесјнных изменений система фиксирует следующие данны
+е: сколько
+ []
+
+
+Overfull \hbox (4.97964pt too wide) in paragraph at lines 31--32
+\T2A/cmr/m/n/14.4 студент для еј решения, какое количество времени было затраче
+но для каждой
+ []
+
+File: images/test.eps Graphic file (type eps)
+<images/test.eps>
+Overfull \hbox (10.3385pt too wide) in paragraph at lines 37--42
+[]\T2A/cmr/m/n/14.4 Вначале построим гистограмму для времени, которое студенты 
+затрачивали
+ []
+
+File: images/test1.eps Graphic file (type eps)
+<images/test1.eps>
+Overfull \hbox (11.85211pt too wide) in paragraph at lines 43--48
+[]\T2A/cmr/m/n/14.4 Согласно модели, построенной в разделе 3.2.2.1[], применим 
+логарифмическое 
+ []
+
+
+Overfull \hbox (18.50145pt too wide) in paragraph at lines 43--48
+\T2A/cmr/m/n/14.4 преобразование к времени ответа и построим гистограмму получе
+нных значений:
+ []
+
+
+Overfull \hbox (20.81145pt too wide) in paragraph at lines 49--50
+[]\T2A/cmr/m/n/14.4 Как видно из данного примера, прменение логарифмического пр
+еобразования
+ []
+
+
+Overfull \hbox (22.51025pt too wide) in paragraph at lines 49--50
+\T2A/cmr/m/n/14.4 дистанционного обучения позволяет получить симметричный вид р
+аспределения,
+ []
+
+
+Overfull \hbox (40.38094pt too wide) in paragraph at lines 49--50
+\T2A/cmr/m/n/14.4 который походит на гауссовское распределение. Проверка на гау
+ссовость приводится
+ []
+
+[22] [23]) (./Ch4.tex [24]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 5.
+
+LaTeX Warning: Reference `ch2' on page 25 undefined on input line 5.
+
+
+Overfull \hbox (8.81116pt too wide) in paragraph at lines 11--12
+[]\T2A/cmr/m/n/14.4 Практическая часть выполненной работы состояла из двух осно
+вных частей
+ []
+
+
+Overfull \hbox (5.75415pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/14.4 - это доработка существующей системы дистанционного обучения 
+для решения
+ []
+
+
+Overfull \hbox (17.37346pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/14.4 данных, и обработка получен-ных экспериментальных данных с це
+лью адаптации
+ []
+
+
+Overfull \hbox (68.5861pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/14.4 работы системы дистанционного обуче-ния на основании полученн
+ых экспериментальных
+ []
+
+
+Overfull \hbox (11.66055pt too wide) in paragraph at lines 15--16
+\T2A/cmr/m/n/14.4 доработки сис-темы дистанционного обучения. На момент написан
+ия дипломной
+ []
+
+
+Overfull \hbox (0.7941pt too wide) in paragraph at lines 15--16
+\T2A/cmr/m/n/14.4 работы система дистан-ционного обучения не проводила учет вре
+мени, которое
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 16.
+
+[25
+
+]
+Overfull \hbox (1.2166pt too wide) in paragraph at lines 18--19
+[]\T2A/cmr/m/n/14.4 построена диаграмма классов модуля системы дистанционного о
+бучения 
+ []
+
+
+Overfull \hbox (35.29517pt too wide) in paragraph at lines 20--21
+[]\T2A/cmr/m/n/14.4 спроектированы изменения, которые нужно внести в системы ди
+станционного
+ []
+
+
+Overfull \hbox (11.1192pt too wide) in paragraph at lines 21--22
+[]\T2A/cmr/m/n/14.4 внесены изменения в программный код системы дистанционного 
+обучения 
+ []
+
+
+Overfull \hbox (9.59409pt too wide) in paragraph at lines 28--29
+[]\T2A/cmr/m/n/14.4 При обработке экспериментальных данных были решены следующи
+е задачи 
+ []
+
+
+Overfull \hbox (3.50351pt too wide) in paragraph at lines 33--34
+[]\T2A/cmr/m/n/14.4 согласно разработанным алгоритмам была проведена оценка пар
+аметров
+ []
+
+) (./Ch5.tex
+Overfull \hbox (26.52696pt too wide) in paragraph at lines 36--1
+[]\T2A/cmr/m/n/14.4 Для визуального анализа полученных статистических данных бы
+ли построены
+ []
+
+[26]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 6.
+
+Overfull \hbox (3.4551pt too wide) in paragraph at lines 4--5
+\T2A/cmr/m/n/14.4 фиксировать время, которое студент затрачивает при решении за
+дач в системе
+ []
+
+) (./Ch6.tex
+Overfull \hbox (51.45674pt too wide) in paragraph at lines 12--1
+[]\T2A/cmr/m/n/14.4 По результатам прогноза (при сравнивании прогнозных значени
+й с фактическими)
+ []
+
+
+Overfull \hbox (2.30487pt too wide) in paragraph at lines 12--1
+\T2A/cmr/m/n/14.4 производится вывод о том, не обладал ли студент ответами к ре
+шаемой задаче.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--1
+
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+[27
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 7.
+) (./Ch7.tex
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+[28
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 8.
+) (./Ch8.tex
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 1.
+
+[29
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 9.
+
+Overfull \hbox (52.03685pt too wide) in paragraph at lines 7--8
+[]\T2A/cmr/m/n/14.4 Дипломная работа посвящена анализу времени, которое затрачи
+вает обучающийся
+ []
+
+
+Overfull \hbox (9.35678pt too wide) in paragraph at lines 9--10
+[]\T2A/cmr/m/n/14.4 Как известно, на скорость студента при ответе влияет не тол
+ько способность
+ []
+
+
+Overfull \hbox (7.06364pt too wide) in paragraph at lines 9--10
+\T2A/cmr/m/n/14.4 процесс обучения, - отсюда следует, что при проведении заняти
+й на территории
+ []
+
+
+Overfull \hbox (74.49207pt too wide) in paragraph at lines 14--15
+[]\T2A/cmr/m/n/14.4 Рабочее помещение, в котором проводятся занятия, имеет след
+ующие характеристики: 
+ []
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+[30
+
+]
+Overfull \hbox (64.79941pt too wide) in paragraph at lines 28--29
+[]\T2A/cmr/m/n/14.4 Помещение, в котором проводятся занятия, оснащено персональ
+ными компьютерами
+ []
+
+
+Overfull \hbox (51.67697pt too wide) in paragraph at lines 30--31
+[]\T2A/cmr/m/n/14.4 системный блок (основные комплектующие, производящие шумово
+е воздействие
+ []
+
+
+Overfull \hbox (15.29715pt too wide) in paragraph at lines 39--40
+[]\T2A/cmr/m/n/14.4 В таблице приведјн уровень шума и мощность для каждого комп
+лектующего 
+ []
+
+
+Overfull \hbox (12.07953pt too wide) in paragraph at lines 43--60
+ [] 
+ []
+
+
+Overfull \hbox (6.3475pt too wide) in paragraph at lines 70--73
+[]\T2A/cmr/m/n/14.4 Микроклимат - искусственно создаваемые условия микросреды в
+ закрытых
+ []
+
+
+Overfull \hbox (26.33566pt too wide) in paragraph at lines 70--73
+\T2A/cmr/m/n/14.4 помещениях. Микроклимат необходимо поддерживать, для создания
+ комфортных
+ []
+
+
+Overfull \hbox (23.835pt too wide) in paragraph at lines 70--73
+\T2A/cmr/m/n/14.4 условий работы - влажности, скорости движения воздуха, темпер
+атуры, давления
+ []
+
+[31]
+Overfull \hbox (1.96103pt too wide) in paragraph at lines 80--81
+\T2A/cmr/m/n/14.4 общест-венные. Параметры микроклимата в помещенияхї. Учебные 
+аудитории
+ []
+
+
+Overfull \hbox (16.8058pt too wide) in paragraph at lines 80--81
+\T2A/cmr/m/n/14.4 согласно ГОСТу относятся к помещениям 2-ой категории. Вторым 
+нормативным
+ []
+
+
+Overfull \hbox (26.8903pt too wide) in paragraph at lines 82--83
+[]\T2A/cmr/m/n/14.4 Согласно классификации, приведјнной в ГОСТ 12.01.005-88, ра
+бота с системой
+ []
+
+
+Overfull \hbox (4.77536pt too wide) in paragraph at lines 82--83
+\T2A/cmr/m/n/14.4 дистан-ционного обучения, относится к категории работ 1а ^^U 
+это лјгкие работы,
+ []
+
+
+Overfull \hbox (33.36867pt too wide) in paragraph at lines 82--83
+\T2A/cmr/m/n/14.4 т.е. работы, производимые сидя и сопровождающиеся незначитель
+ным физическим
+ []
+
+
+Overfull \hbox (9.5926pt too wide) in paragraph at lines 90--90
+[]\T2A/cmr/m/n/14.4 Температура
+ []
+
+
+Overfull \hbox (9.64496pt too wide) in paragraph at lines 90--90
+[]\T2A/cmr/m/n/14.4 Относительная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\T2A/cmr/m/n/14.4 влажность,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[]\T2A/cmr/m/n/14.4 Скорость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\T2A/cmr/m/n/14.4 движения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\T2A/cmr/m/n/14.4 воздуха,
+ []
+
+
+Overfull \hbox (9.55313pt too wide) in paragraph at lines 104--105
+\T2A/cmr/m/n/14.4 используется система дистанционного обучения, не соответствую
+т требованиям
+ []
+
+
+Overfull \hbox (38.68794pt too wide) in paragraph at lines 104--105
+\T2A/cmr/m/n/14.4 ГОСТ. 12.01.005-88, поэтому необходимо рассчитать параметры к
+ондиционирования
+ []
+
+[32]
+Overfull \hbox (22.52509pt too wide) in paragraph at lines 108--109
+[]\T2A/cmr/m/n/14.4 Правильно спроектированное и рационально исполненное освеще
+ние помогает
+ []
+
+
+Overfull \hbox (29.1732pt too wide) in paragraph at lines 108--109
+\T2A/cmr/m/n/14.4 - поэтому освещјн-ность является одним из важнейших факторов 
+для комфортного
+ []
+
+
+Overfull \hbox (6.7057pt too wide) in paragraph at lines 108--109
+\T2A/cmr/m/n/14.4 протекания про-цесса обучения. Для улучшения видимости объект
+ов освещение
+ []
+
+
+Overfull \hbox (7.44872pt too wide) in paragraph at lines 108--109
+\T2A/cmr/m/n/14.4 резких переходов от света к тени. Большое количество глянцевы
+х поверхностей
+ []
+
+
+Overfull \hbox (13.15178pt too wide) in paragraph at lines 110--111
+\T2A/cmr/m/n/14.4 2.2.1/2.1.1.1278-03 ѕГигиенические требования к естественному
+, искусственному
+ []
+
+
+Overfull \hbox (42.89552pt too wide) in paragraph at lines 110--111
+\T2A/cmr/m/n/14.4 используется совме-щенный комбинированный тип освещения. Срав
+ним фактические
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+[]\T2A/cmr/m/n/14.4 в т.ч. от
+ []
+
+
+Overfull \hbox (6.52132pt too wide) in paragraph at lines 128--129
+[]\T2A/cmr/m/n/14.4 Показатели помещения соответствуют значениям СаНПиН 2.2.1/2
+.1.1.1278-
+ []
+
+[33]
+Overfull \hbox (41.94208pt too wide) in paragraph at lines 136--138
+[]\T2A/cmr/m/n/14.4 Для гигиенического нормирования электроопасности оборудован
+ия используется
+ []
+
+
+Overfull \hbox (40.97615pt too wide) in paragraph at lines 136--138
+\T2A/cmr/m/n/14.4 напряжений прикос-новения и токовї, который устанавливает пре
+дельно допустимые
+ []
+
+
+Overfull \hbox (51.62025pt too wide) in paragraph at lines 136--138
+\T2A/cmr/m/n/14.4 токи, протекающие через тело человека во время прикосновения 
+к электроустановкам.
+ []
+
+
+Overfull \hbox (8.02444pt too wide) in paragraph at lines 136--138
+\T2A/cmr/m/n/14.4 При работе с системой дистан-ционного обучения в системных бл
+оках протекает
+ []
+
+
+Overfull \hbox (17.49667pt too wide) in paragraph at lines 141--142
+[]\T2A/cmr/m/n/14.4 Звук - это акустические колебания упругой среды. \T2A/cmr/m
+/it/14.4 Акустическими \T2A/cmr/m/n/14.4 называют
+ []
+
+
+Overfull \hbox (69.35027pt too wide) in paragraph at lines 141--142
+\T2A/cmr/m/n/14.4 колебания в диапазоне частот $\OT1/cmr/m/n/14.4 16$ \T2A/cmr/
+m/n/14.4 Гц - $\OT1/cmr/m/n/14.4 209$ \T2A/cmr/m/n/14.4 кГц. Звуковые колебания
+, распространяющиеся
+ []
+
+
+Overfull \hbox (31.19722pt too wide) in paragraph at lines 143--144
+[]\T2A/cmr/m/it/14.4 Шумом \T2A/cmr/m/n/14.4 называют совокупность акустических
+ звуков различной интенсивности
+ []
+
+
+Overfull \hbox (29.54898pt too wide) in paragraph at lines 145--146
+\T2A/cmr/m/n/14.4 расстройствам, от расстройств центральной нервной системы до 
+морфологический
+ []
+
+
+Overfull \hbox (11.65636pt too wide) in paragraph at lines 145--146
+\T2A/cmr/m/n/14.4 шума зависит от продолжительности воздействия, уровня интенси
+вности шума,
+ []
+
+
+Overfull \hbox (5.95174pt too wide) in paragraph at lines 145--146
+\T2A/cmr/m/n/14.4 шуму). Высокая индивидуальная чувствительность к шуму может с
+тановиться
+ []
+
+[34]
+Overfull \hbox (4.61218pt too wide) in paragraph at lines 147--148
+\T2A/cmr/m/n/14.4 нарушения обмена веществ, возникновению сердечно-сосудистых з
+аболеваний,
+ []
+
+
+Overfull \hbox (3.85223pt too wide) in paragraph at lines 149--150
+[]\T2A/cmr/m/n/14.4 Уровень звукового давления принято измерять в децибелах (дБ
+). Децибелл
+ []
+
+
+Overfull \hbox (12.6635pt too wide) in paragraph at lines 149--150
+\OT1/cmr/m/n/14.4 1$ \T2A/cmr/m/n/14.4 кГц. Уровень звукового давления в децибе
+ллах $\OML/cmm/m/it/14.4 N$ \T2A/cmr/m/n/14.4 для давления $\OML/cmm/m/it/14.4 
+p$ \T2A/cmr/m/n/14.4 вычисляется
+ []
+
+
+Overfull \hbox (29.94244pt too wide) in paragraph at lines 163--164
+\T2A/cmr/m/n/14.4 классифицирует шумы по спектру (широкополосные и тональные) и
+ по временным
+ []
+
+
+Overfull \hbox (12.23221pt too wide) in paragraph at lines 163--164
+\T2A/cmr/m/n/14.4 характеристикам (постоянные и непостоянные). Для нормирования
+ постоянных
+ []
+
+
+Overfull \hbox (4.98897pt too wide) in paragraph at lines 163--164
+\T2A/cmr/m/n/14.4 шумов используются допустимые уровни звукового давления (УЗДН
+) в девяти
+ []
+
+
+Overfull \hbox (23.64142pt too wide) in paragraph at lines 163--164
+\T2A/cmr/m/n/14.4 активных полосах частот, разделјнных по видам производственно
+й деятельности.
+ []
+
+[35]
+Overfull \hbox (18.33252pt too wide) in paragraph at lines 173--174
+[]\T2A/cmr/m/n/14.4 Произведјм расчјт звукового давления оборудования по каждом
+у источнику: 
+ []
+
+
+Overfull \hbox (8.06532pt too wide) in paragraph at lines 184--185
+[]\T2A/cmr/m/n/14.4 С учјтом проведјнных расчјтов, вычислим результирующий уров
+ень шума: 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]\T2A/cmr/m/n/14.4 Деятельность:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]\T2A/cmr/m/n/14.4 Уровень
+ []
+
+
+Overfull \hbox (41.55704pt too wide) in paragraph at lines 212--213
+[]\T2A/cmr/m/n/14.4 Вибрации - это механические колебания, которые возникают и 
+распространяются
+ []
+
+
+Overfull \hbox (17.07321pt too wide) in paragraph at lines 212--213
+\T2A/cmr/m/n/14.4 по оси $\OML/cmm/m/it/14.4 y$\T2A/cmr/m/n/14.4 , по оси $\OML
+/cmm/m/it/14.4 z$\T2A/cmr/m/n/14.4 ) и по временным характеристикам (постоянная
+, непостоянная). 
+ []
+
+
+Overfull \hbox (2.69713pt too wide) in paragraph at lines 214--215
+\T2A/cmr/m/n/14.4 линейной зави-симости. Причина - в эффекте резонанса. Если вн
+ешняя частота
+ []
+
+
+Overfull \hbox (5.75803pt too wide) in paragraph at lines 216--217
+[]\T2A/cmr/m/n/14.4 Особенно сильное воздействие вибрация оказывает на зрение. 
+Расстройство
+ []
+
+
+Overfull \hbox (57.3414pt too wide) in paragraph at lines 216--217
+\T2A/cmr/m/n/14.4 Патологии, связанные с вибрацией по количеству связанных с ни
+ми профессиональных
+ []
+
+[36]
+Overfull \hbox (70.87167pt too wide) in paragraph at lines 218--219
+\T2A/cmr/m/n/14.4 вестибюлярный и тактильный анализаторы. У людей, длительное в
+ремя подвергающихся
+ []
+
+
+Overfull \hbox (25.74959pt too wide) in paragraph at lines 226--226
+[]\T2A/cmr/m/n/14.4 Среднегеометрические
+ []
+
+
+Overfull \hbox (2.82031pt too wide) in paragraph at lines 230--230
+[]$\OT1/cmr/m/n/14.4 10[][][]\OML/cmm/m/it/14.4 =[]$| 
+ []
+
+
+Overfull \hbox (2.82031pt too wide) in paragraph at lines 230--230
+[]$\OT1/cmr/m/n/14.4 10[][][]\OML/cmm/m/it/14.4 =[]$| 
+ []
+
+
+Overfull \hbox (34.72115pt too wide) in paragraph at lines 244--245
+[]\T2A/cmr/m/n/14.4 В зависимости от энергии фотонов выделяют ионизирующие и не
+ионизирующие
+ []
+
+
+Overfull \hbox (32.06015pt too wide) in paragraph at lines 246--247
+[]\T2A/cmr/m/n/14.4 Нормирование ЭМИ промышленной частоты производится путјм ус
+тановления
+ []
+
+
+Overfull \hbox (37.41118pt too wide) in paragraph at lines 246--247
+\T2A/cmr/m/n/14.4 допус-тмых уровней напряжјнности электрического поля $\OML/cm
+m/m/it/14.4 E$\T2A/cmr/m/n/14.4 (кВ/м) и напряженности
+ []
+
+
+Overfull \hbox (1.58778pt too wide) in paragraph at lines 248--249
+[]\T2A/cmr/m/n/14.4 Пребывание в электрическом поле напряжјнностью до $\OT1/cmr
+/m/n/14.4 5$ \T2A/cmr/m/n/14.4 кВ/м допускается
+ []
+
+
+Overfull \hbox (15.08119pt too wide) in paragraph at lines 254--255
+\T2A/cmr/m/n/14.4 03 "Электро-магнитные поля в производственных условиях". Т.к.
+ металлический
+ []
+
+
+Overfull \hbox (22.51024pt too wide) in paragraph at lines 254--255
+\T2A/cmr/m/n/14.4 корпус системного блока экранирует магнитные поля и прошел со
+ответствующую
+ []
+
+[37]
+Overfull \hbox (77.92065pt too wide) in paragraph at lines 260--261
+[]\T2A/cmr/m/n/14.4 Требования к эргономике рабочего места закреплены в санитар
+но-эпидемиологических
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 268.
+
+
+Overfull \hbox (8.65573pt too wide) in paragraph at lines 269--270
+[]\T2A/cmr/m/n/14.4 размеры пространства для ног должны не должны вызывать диск
+омфорт 
+ []
+
+
+Overfull \hbox (29.73824pt too wide) in paragraph at lines 276--278
+\T2A/cmr/m/n/14.4 рабочем месте, развивается туннельный синдром запястья. Прави
+льное положение
+ []
+
+[38]
+Overfull \hbox (1.9703pt too wide) in paragraph at lines 287--288
+[]\T2A/cmr/m/n/14.4 Соблюдение норм эргономики, описанных выше, позволит снизит
+ь вредное
+ []
+
+
+Overfull \hbox (74.47574pt too wide) in paragraph at lines 287--288
+\T2A/cmr/m/n/14.4 воздействие ЭВМ на пользователя персонального компьютера, пов
+ысить внимательность,
+ []
+
+
+Overfull \hbox (18.15852pt too wide) in paragraph at lines 293--294
+[]\T2A/cmr/m/n/14.4 Оценка психофизиологических факторов проводится с помощью р
+уководства
+ []
+
+
+Overfull \hbox (45.348pt too wide) in paragraph at lines 295--296
+\T2A/cmr/m/n/14.4 трудового процессаї с помощью Таблицы 18 ѕКлассы условий труд
+а по показателямї
+ []
+
+
+Overfull \hbox (3.8632pt too wide) in paragraph at lines 297--298
+[]\T2A/cmr/m/n/14.4 Проведјм анализ класса условий труда с использованием соотв
+етствующих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+[]|\T2A/cmr/m/n/14.4 Класс
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+\T2A/cmr/m/n/14.4 условий
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 307--308
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[]|\T2A/cmr/m/n/14.4 1.2.Распределение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+\T2A/cmr/m/n/14.4 функций по степени
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[]|\T2A/cmr/m/n/14.4 Обработка, выполнение
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 309--310
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+[]|\T2A/cmr/m/n/14.4 1.3.Характер
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+\T2A/cmr/m/n/14.4 графику с возможной
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 311--311
+\T2A/cmr/m/n/14.4 его коррекцией по ходу
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 311--312
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+[]|\T2A/cmr/m/n/14.4 2.1.Длительность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+\T2A/cmr/m/n/14.4 сосредоточенного
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 315--316
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+[]|\T2A/cmr/m/n/14.4 2.2.Наблюдение
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\T2A/cmr/m/n/14.4 за экранами
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 317--318
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\T2A/cmr/m/n/14.4 З.1.Степень
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\T2A/cmr/m/n/14.4 ответственности за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\T2A/cmr/m/n/14.4 результат собственной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\T2A/cmr/m/n/14.4 деятельности.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\T2A/cmr/m/n/14.4 Несет ответственность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\T2A/cmr/m/n/14.4 за функциональное
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\T2A/cmr/m/n/14.4 качество выполения
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 321--322
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[]|\T2A/cmr/m/n/14.4 3.4.Количество
+ []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 323--323
+\T2A/cmr/m/n/14.4 конфликтных ситуаций
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 323--324
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+[]|\T2A/cmr/m/n/14.4 4.1. Число элементов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+\T2A/cmr/m/n/14.4 для реализации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+\T2A/cmr/m/n/14.4 простого задания
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+\T2A/cmr/m/n/14.4 или в многократно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+\T2A/cmr/m/n/14.4 повторяющихся
+ []
+
+
+Overfull \hbox (17.21532pt too wide) in paragraph at lines 327--328
+[]|\T2A/cmr/m/n/14.4 Оптимальный| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\T2A/cmr/m/n/14.4 (в сек) выполнения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\T2A/cmr/m/n/14.4 простых заданий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+\T2A/cmr/m/n/14.4 или повторяющихся
+ []
+
+
+Overfull \hbox (17.21532pt too wide) in paragraph at lines 329--330
+[]|\T2A/cmr/m/n/14.4 Оптимальный| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\T2A/cmr/m/n/14.4 4.3. Время активных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+\T2A/cmr/m/n/14.4 действий (в % к
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+\T2A/cmr/m/n/14.4 продолжительности
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+\T2A/cmr/m/n/14.4 смены). В остальное
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 331--332
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+[]|\T2A/cmr/m/n/14.4 Монотонность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+\T2A/cmr/m/n/14.4 производственной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+\T2A/cmr/m/n/14.4 обстановки (время
+ []
+
+
+Overfull \hbox (8.07222pt too wide) in paragraph at lines 333--334
+[]|\T2A/cmr/m/n/14.4 Допустимый| 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 337
+ []
+
+[39] [40]
+Overfull \hbox (61.10535pt too wide) in paragraph at lines 352--353
+[]$\OML/cmm/m/it/14.4 t[]$ \T2A/cmr/m/n/14.4 - температура воздуха, удаляемого 
+системами местных отсосов в обслуживаемой
+ []
+
+
+Overfull \hbox (39.66562pt too wide) in paragraph at lines 356--357
+[]$\OML/cmm/m/it/14.4 t[]$ \T2A/cmr/m/n/14.4 - температура воздуха, удаляемого 
+из помещения за пределами обслуживаемой
+ []
+
+
+Overfull \hbox (8.43416pt too wide) in paragraph at lines 360--361
+[]\T2A/cmr/m/n/14.4 Произведјм расчјт избыточного теплового потока Q. Избыточны
+й тепловой
+ []
+
+[41]
+Overfull \hbox (24.08673pt too wide) in paragraph at lines 366--367
+[]$\OML/cmm/m/it/14.4 Q[]$ \T2A/cmr/m/n/14.4 - теплота, выдјляемая оборудование
+м. В соответствии с характеристиками
+ []
+
+
+Overfull \hbox (26.59348pt too wide) in paragraph at lines 399--400
+[]$\OML/cmm/m/it/14.4 q[] \OT1/cmr/m/n/14.4 = 11[][]$ \T2A/cmr/m/n/14.4 - тепло
+та, которую излучает 1 м$[]$ ограждающей конструкции. 
+ []
+
+
+Overfull \hbox (24.43376pt too wide) detected at line 409
+\OML/cmm/m/it/14.4 L \OT1/cmr/m/n/14.4 = \OML/cmm/m/it/14.4 L[] \OT1/cmr/m/n/14
+.4 + [] = 2 + [] = 804
+ []
+
+[42]
+Overfull \hbox (42.31845pt too wide) in paragraph at lines 411--412
+\T2A/cmr/m/n/14.4 бытовые авто-номные. Общие технические условияї, необходимо в
+ыбрать следующий
+ []
+
+
+Overfull \hbox (42.682pt too wide) in paragraph at lines 411--412
+\T2A/cmr/m/n/14.4 кондиционер: тип КБ1 и климатическое исполнение У3, обозначен
+ие климатического
+ []
+
+
+Overfull \hbox (10.90186pt too wide) in paragraph at lines 415--416
+[]\T2A/cmr/m/n/14.4 Помещение, которое используется для обучения студентов с ис
+пользованием
+ []
+
+) (./Outro.tex) (./Litr.tex [43]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 15.
+
+[44
+
+]
+Underfull \hbox (badness 1975) in paragraph at lines 15--16
+[]\T2A/cmr/m/it/14.4 С.В. Белов, В.А. Девисилов, А.В, Ильницкая и др. \T2A/cmr/
+m/n/14.4 Безопасность
+ []
+
+) [45] (./DiplomProject.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3754 strings out of 495064
+ 45376 string characters out of 3182218
+ 118331 words of memory out of 3000000
+ 6820 multiletter control sequences out of 15000+200000
+ 16825 words of font info for 38 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,11n,48p,2142b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on DiplomProject.dvi (45 pages, 124024 bytes).
