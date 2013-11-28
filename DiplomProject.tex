@@ -58,6 +58,28 @@
 %\usepackage{mathptmx}
 %\usepackage{cyrtimes}
 
+%для большой таблицы
+\newenvironment{myTable}%
+{%
+    \tiny
+    \begin{longtable}[H]{|p{0.9cm}|p{3.4cm}|p{1.2cm}|p{3.9cm}|p{0.6cm}|p{0.7cm}|p{0.6cm}|p{0.7cm}|}
+    \hline
+}%
+{%
+    \end{longtable}
+}%
+
+%для большой таблицы
+\newenvironment{myTableSecond}%
+{%
+    \tiny
+    \begin{longtable}[H]{|p{0.7cm}|p{0.4cm}|p{0.4cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|}
+    \hline
+}%
+{%
+    \end{longtable}
+}%
+
 \begin{document}
 \input{DiplomProject-Title}% это титульный лист
 %Содержание
