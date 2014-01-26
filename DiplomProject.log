@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=latex 2013.4.8)  8 DEC 2013 23:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.13 (TeX Live 2013/dev) (format=latex 2013.4.8)  22 JAN 2014 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,27 +657,48 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 \f@ncyO@olf=\skip57
 \f@ncyO@orf=\skip58
 )
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box34
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen125
+\ttl@minus=\dimen126
+\ttl@toksa=\toks28
+\titlewidth=\dimen127
+\titlewidthlast=\dimen128
+\titlewidthfirst=\dimen129
+)
 (./DiplomProject.aux
+
+LaTeX Warning: Label `tabular:IRTtable' multiply defined.
+
+
+LaTeX Warning: Label `tabular:IRTtable' multiply defined.
+
+
+LaTeX Warning: Label `tabular:IRTtable' multiply defined.
+
 
 LaTeX Warning: Label `mainpart' multiply defined.
 
 )
 \openout1 = `DiplomProject.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -715,7 +736,31 @@ LaTeX Font Info:    ... okay on input line 83.
 
 (./DiplomProject-Title.tex [1
 
-]) (./DiplomProject.toc
+]) (./referat.tex
+Overfull \hbox (9.20607pt too wide) in paragraph at lines 11--12
+[]\T2A/cmr/m/n/14.4 Дипломная работа посвящена проблеме адаптации системы диста
+нционного
+ []
+
+
+Overfull \hbox (0.60205pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/14.4 обучения на основании информации о времени ответа пользовател
+я на задачи.
+ []
+
+)
+Overfull \hbox (5.21085pt too wide) in paragraph at lines 21--95
+[]\T2A/cmr/m/n/14.4 В Заключе-нии формулируются итоги проведјнного исследования
+ и выводы
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (14.0pt): 
+ Make it at least 17.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] (./DiplomProject.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -726,225 +771,138 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (2.06758pt too wide) in paragraph at lines 20--20
+ [][] []\T2A/cmr/m/n/14.4 Использование информации о фактическом времени ответа
+ []  
+ []
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 39.
+[3
 
-
-Package Fancyhdr Warning: \headheight is too small (14.0pt): 
- Make it at least 17.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2
-
-] [3])
+])
 \tf@toc=\write3
 \openout3 = `DiplomProject.toc'.
 
  (./Intro.tex [4]
 {\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
+[4
 
-Overfull \hbox (7.4571pt too wide) in paragraph at lines 5--7
-\T2A/cmr/m/n/14.4 ционного обучения и адаптивных систем тестирования. Время, ко
-торое студент
- []
-
-
-Overfull \hbox (7.0828pt too wide) in paragraph at lines 5--7
-\T2A/cmr/m/n/14.4 затрачивает для ответа на задачу, является основным источнико
-м информации
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
-
-Overfull \hbox (7.28041pt too wide) in paragraph at lines 8--9
-[]\T2A/cmr/m/n/14.4 не обладает ли студент ответами на некоторые (или все) зада
-чи дистанци-
- []
-
-
-Overfull \hbox (2.9249pt too wide) in paragraph at lines 10--11
-[]\T2A/cmr/m/n/14.4 удачно ли сформулированы задачи теста (или понимание услови
-я задачи
- []
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 23.
-
-[5
-
-]
-Overfull \hbox (4.05814pt too wide) in paragraph at lines 24--25
-[]\T2A/cmr/m/n/14.4 Основные задачи, которые решить для для достижения поставле
-нной цели: 
- []
-
-
-Overfull \hbox (4.4509pt too wide) in paragraph at lines 31--32
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+ [5]
+Overfull \hbox (4.4509pt too wide) in paragraph at lines 42--43
 \T2A/cmr/m/n/14.4 ющих в систему дистанционного обучения, с помощью построенной
  мате-
  []
 
-) (./Ch1.tex
-Overfull \hbox (1.55632pt too wide) in paragraph at lines 42--1
-\T2A/cmr/m/n/14.4 анализ параметров помещения, в котором студенты могут работат
-ь с системой
- []
-
-[6] [7]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
-
-Overfull \hbox (0.21422pt too wide) in paragraph at lines 8--9
-\T2A/cmr/m/n/14.4 чества правильных ответов, предоставленных студентом в течени
-и теста. Поз-
+[6]) (./Ch1.tex
+Overfull \hbox (3.07936pt too wide) in paragraph at lines 12--13
+\T2A/cmr/m/n/14.4 мально возможное количество задач самого низ-кого уровня слож
+ности - таким
  []
 
 
-Overfull \hbox (1.3574pt too wide) in paragraph at lines 10--11
-\T2A/cmr/m/n/14.4 которых было неограничено - по результатам этого теста можно 
-было оценить,
+Overfull \hbox (0.60207pt too wide) in paragraph at lines 12--13
+\T2A/cmr/m/n/14.4 решения (при таком подходе на скорость ответов не должна влия
+ть сложность
+ []
+
+[7]
+Overfull \hbox (1.57944pt too wide) in paragraph at lines 16--17
+\T2A/cmr/m/n/14.4 взаимосвязи, которую назвал <<кривой ответа>> (re-sponse sur-
+face). Для каждого
+ []
+
+[8]
+File: images/6.jpg Graphic file (type eps)
+ <images/6.jpg>
+Overfull \hbox (2.70117pt too wide) in paragraph at lines 29--30
+\T2A/cmr/m/n/14.4 хастическая модель, а время ответа считается детерминирован-н
+ым. Очевидно,
  []
 
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 11.
-
-[8
-
-]
-File: images/6.jpeg Graphic file (type eps)
- <images/6.jpeg>
-Overfull \hbox (3.06438pt too wide) in paragraph at lines 21--22
-\T2A/cmr/m/n/14.4 которое студент затратит на задачу. При этом вероятность прав
-иль-ного ответа
+Overfull \hbox (1.91293pt too wide) in paragraph at lines 29--30
+\T2A/cmr/m/n/14.4 что и ответы студента, и время, которое студент затрачивает н
+а ответ, являют-
  []
 
-[9]
-Overfull \hbox (3.25223pt too wide) in paragraph at lines 23--24
-\T2A/cmr/m/n/14.4 дента (способность), при этом игнорируется время, в течении к
-оторого студент
+[9] [10]
+Overfull \hbox (2.31018pt too wide) in paragraph at lines 48--49
+\T2A/cmr/m/n/14.4 вре-мени ответа студента на задачи позволяет ответить на след
+ующие вопросы: 
  []
 
-[10]
-Overfull \hbox (5.02043pt too wide) in paragraph at lines 34--35
-[]\T2A/cmr/m/n/14.4 Дипломная работа посвящена построению математической модели
- времени
- []
-
-
-Overfull \hbox (8.41289pt too wide) in paragraph at lines 34--35
-\T2A/cmr/m/n/14.4 ответа студента и одному из практических применений этой моде
-ли: выявлении
- []
-
-
-Overfull \hbox (6.31212pt too wide) in paragraph at lines 34--35
-\T2A/cmr/m/n/14.4 отклонений в поведении студента на основании поступающей в си
-стему дистан-
- []
-
-
-Overfull \hbox (12.79689pt too wide) in paragraph at lines 40--41
-\T2A/cmr/m/n/14.4 согласно возможностям конкретного студента. Матема-тическая м
-одель времени
- []
-
-
-LaTeX Warning: Reference `ch2' on page 11 undefined on input line 48.
-
-) (./Ch2.tex [11] [12]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
-
-Overfull \hbox (7.68295pt too wide) in paragraph at lines 5--6
-[]\T2A/cmr/m/n/14.4 Практика построения математических моделей, включающих врем
-я ответа,
- []
-
-
-Overfull \hbox (6.31206pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 распределение вероятности правильного ответа студента использ
-уются в одной
- []
-
-
-Overfull \hbox (11.63998pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 и той же модели. Второй подход - когда используются разные мо
-дели. Приведјм
- []
-
-
-Overfull \hbox (8.4179pt too wide) in paragraph at lines 23--24
-[]\T2A/cmr/m/n/14.4 Над моделью ответа, которая включает в себя время ответа, р
-аботал Роскам
- []
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 26.
-
-[13
-
-]
-Overfull \hbox (4.84354pt too wide) in paragraph at lines 30--30
-[]\T2A/cmr/bx/n/17.28 Модель времени ответа, включающая корректность
- []
-
-[14]
-Overfull \hbox (9.38635pt too wide) in paragraph at lines 63--65
+) (./Ch2.tex [11] [12] [13]
+Overfull \hbox (9.38635pt too wide) in paragraph at lines 66--68
 \T2A/cmr/m/n/14.4 где $\OML/cmm/m/it/14.4 ^^U$ \T2A/cmr/m/n/14.4 - параметр инт
 енсивности потока, который соответствует скорости чтения
  []
 
-[15]
-Overfull \hbox (0.78952pt too wide) in paragraph at lines 99--100
+[14]
+Overfull \hbox (0.78952pt too wide) in paragraph at lines 102--103
 []\T2A/cmr/m/n/14.4 Время, которое студент затрачивает при ответе на задачи тес
 та и скорость,
  []
 
 
-Overfull \hbox (1.38739pt too wide) in paragraph at lines 105--106
+Overfull \hbox (1.38739pt too wide) in paragraph at lines 108--109
 []\T2A/cmr/m/n/14.4 Для того, чтобы распределение времени ответа имело более си
 мметричный
  []
 
-[16] [17]
-File: images/VdLmodel.eps Graphic file (type eps)
- <images/VdLmodel.eps>
-Overfull \hbox (30.27165pt too wide) in paragraph at lines 126--127
+
+Overfull \hbox (0.45108pt too wide) in paragraph at lines 120--121
+[]\T2A/cmr/m/n/14.4 На основании сделанных выше предположений ван дер Линден пр
+ед-ложил
+ []
+
+[15]
+File: images/VdLmodelRUS.eps Graphic file (type eps)
+ <images/VdLmodelRUS.eps>
+Overfull \hbox (30.27165pt too wide) in paragraph at lines 131--132
  [][] 
  []
 
-
-Overfull \hbox (20.09657pt too wide) in paragraph at lines 136--137
- \T2A/cmr/bx/n/14.4 Модель распределения параметров для множества студентов (ве
-рхний
- []
-
-[18]
-
-LaTeX Warning: Command \cyrb invalid in math mode on input line 154.
-
-Missing character: There is no б in font cmr12!
-
-Overfull \hbox (9.42725pt too wide) in paragraph at lines 161--162
- \T2A/cmr/bx/n/14.4 Модель времени ответа (нижний уровень)[] \T2A/cmr/m/n/14.4 
-Время ответа студента имеет 
- []
-
-
-Overfull \hbox (3.3648pt too wide) detected at line 181
+[16] [17]
+Overfull \hbox (3.3648pt too wide) detected at line 191
 []
  []
 
-[19] [20]) (./Ch3.tex [21]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 4.
+
+Overfull \hbox (3.29713pt too wide) in paragraph at lines 193--194
+[]\T2A/cmr/m/n/14.4 Двухуровненевая иерархическая модель, предложенная ван дер 
+Линденом,
+ []
+
+
+Overfull \hbox (8.40858pt too wide) in paragraph at lines 193--194
+\T2A/cmr/m/n/14.4 задачи, так и между студентами в группе). Адаптация системы д
+истанционного
+ []
+
+
+Overfull \hbox (2.13339pt too wide) in paragraph at lines 193--194
+\T2A/cmr/m/n/14.4 выявления случаев <<нечестного>> прохождения теста и конструи
+рования инди-
+ []
+
+
+Overfull \hbox (4.10832pt too wide) in paragraph at lines 198--199
+\T2A/cmr/m/n/14.4 участие $\OML/cmm/m/it/14.4 M$ \T2A/cmr/m/n/14.4 студентов. Д
+ля каждого обучающегося $\OML/cmm/m/it/14.4 j$ \T2A/cmr/m/n/14.4 из общего числ
+а студентов
+ []
+
+[18]) (./Ch3.tex
+Overfull \hbox (12.15533pt too wide) in paragraph at lines 3--3
+ |[]\T2A/cmr/bx/n/17.28 Использование информации о фактическом времени
+ []
+
 
 Overfull \hbox (4.63507pt too wide) in paragraph at lines 7--8
 []\T2A/cmr/m/n/14.4 Отклонением прогноза будем разность между прогнозным времен
@@ -957,1128 +915,978 @@ Overfull \hbox (3.0848pt too wide) in paragraph at lines 7--8
 але разность
  []
 
-
+[19]
 Overfull \hbox (8.80582pt too wide) in paragraph at lines 12--13
 []\T2A/cmr/m/n/14.4 Из этого отношения можно сделать вывод, что ошибка прогноза
  - случайная
  []
 
 
-Overfull \hbox (2.06018pt too wide) in paragraph at lines 17--18
-\T2A/cmr/m/n/14.4 задаче проверки статистической гипотезы о том, что реализации
- $\OML/cmm/m/it/14.4 e[]$ \T2A/cmr/m/n/14.4 случайной
+Overfull \hbox (2.5173pt too wide) in paragraph at lines 22--23
+\T2A/cmr/m/n/14.4 телей системы дистанцион-ного обучения МАИ. На момент написан
+ия диплома
  []
 
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 25.
-
-[22
-
-]
-Overfull \hbox (2.6984pt too wide) in paragraph at lines 29--30
-\T2A/cmr/m/n/14.4 моделей, описанных в Главе 3[] использовались реальные данные
- пользователей
+Overfull \hbox (7.64748pt too wide) in paragraph at lines 22--23
+\T2A/cmr/m/n/14.4 литическая геометрия>>, <<Теория вероятностей и математическа
+я статистика>>). 
  []
 
 
-Overfull \hbox (0.44438pt too wide) in paragraph at lines 31--32
+Overfull \hbox (0.44438pt too wide) in paragraph at lines 24--25
 []\T2A/cmr/m/n/14.4 После внесјнных изменений система фиксирует следующие данны
 е: сколь-
  []
 
-
-Overfull \hbox (4.97964pt too wide) in paragraph at lines 31--32
-\T2A/cmr/m/n/14.4 студент для еј решения, какое количество времени было затраче
-но для каждой
+File: images/test.eps Graphic file (type eps)
+<images/test.eps> [20]
+File: images/test1.eps Graphic file (type eps)
+ <images/test1.eps> [21] [22]
+Overfull \hbox (1.96426pt too wide) in paragraph at lines 128--129
+\T2A/cmr/m/n/14.4 задачу $\OML/cmm/m/it/14.4 i$\T2A/cmr/m/n/14.4 . Время ответа
+ имеет логнормальное распределение, согласно п. (1.11[]). 
  []
 
 [23]
-File: images/test.eps Graphic file (type eps)
- <images/test.eps>
-File: images/test1.eps Graphic file (type eps)
- <images/test1.eps> [24]
-Overfull \hbox (13.43358pt too wide) in paragraph at lines 56--77
-\T2A/cmr/m/n/14.4 студента $\OML/cmm/m/it/14.4 j$ \T2A/cmr/m/n/14.4 из общего к
-оличества студентов $\OML/cmm/m/it/14.4 M$ \T2A/cmr/m/n/14.4 система дистанцион
-ного обучения
+Overfull \hbox (3.42882pt too wide) in paragraph at lines 130--131
+\T2A/cmr/m/n/14.4 собой операции над строками таблицы, операции по индексу $\OM
+L/cmm/m/it/14.4 j$ \T2A/cmr/m/n/14.4 - над столбцами.
  []
 
-
-Overfull \hbox (1.96426pt too wide) in paragraph at lines 79--80
-\T2A/cmr/m/n/14.4 задачу $\OML/cmm/m/it/14.4 i$\T2A/cmr/m/n/14.4 . Время ответа
- имеет логнормальное распределение, согласно п. (3.11[]). 
- []
-
-
-LaTeX Warning: Reference `opmpv' on page 25 undefined on input line 95.
-
-[25]
-Overfull \hbox (24.0626pt too wide) in paragraph at lines 101--102
-[]\T2A/cmr/m/n/14.4 В тестировании принимало участие $\OT1/cmr/m/n/14.4 30$ \T2
-A/cmr/m/n/14.4 обучающихся. Система дистанционного
- []
-
-
-Overfull \hbox (4.04695pt too wide) in paragraph at lines 107--108
-[]\T2A/cmr/m/n/14.4 Для проверки работы модели смоделируем две последовательнос
-ти - после-
- []
-
-
-Overfull \hbox (3.82939pt too wide) in paragraph at lines 107--108
-\T2A/cmr/m/n/14.4 довательность значений времени ответа на задачи теста для сту
-дента, который
- []
-
-
-Overfull \hbox (4.02682pt too wide) in paragraph at lines 109--110
+[24]
+Overfull \hbox (4.02682pt too wide) in paragraph at lines 174--175
 \T2A/cmr/m/n/14.4 который не обладает ответами на задачи, имеет логнормальное р
 аспределение: 
  []
 
-[26]
+
+Overfull \hbox (2.12799pt too wide) in paragraph at lines 189--190
+\T2A/cmr/m/n/14.4 при прохождении теста, параметр смещения определим из соотнош
+ения (1.21[]). 
+ []
+
+
+Overfull \hbox (1.1875pt too wide) in paragraph at lines 191--192
+\T2A/cmr/m/n/14.4 тивоположную (столбец при этом зеркально отобразится в нижнюю
+ полуплос-
+ []
+
+[25]
 File: images/forecast.eps Graphic file (type eps)
  <images/forecast.eps>
-Overfull \hbox (7.74265pt too wide) in paragraph at lines 128--129
+Overfull \hbox (7.74265pt too wide) in paragraph at lines 197--198
  [][] 
  []
 
-) (./Ch4.tex [27]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 5.
+[26]
+File: images/fdiffer.eps Graphic file (type eps)
+ <images/fdiffer.eps>
+Overfull \hbox (7.74265pt too wide) in paragraph at lines 205--206
+ [][] 
+ []
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 16.
+[27]) (./Ch4.tex
+Overfull \hbox (6.71396pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/14.4 информация была нужна для проверки теоретических положений на
+ практике.
+ []
 
-[28
 
-]
-Overfull \hbox (1.2166pt too wide) in paragraph at lines 18--19
+Overfull \hbox (1.2166pt too wide) in paragraph at lines 14--15
 []\T2A/cmr/m/n/14.4 построена диаграмма классов модуля системы дистанционного о
 бучения 
  []
 
-
-Overfull \hbox (9.59409pt too wide) in paragraph at lines 28--29
-[]\T2A/cmr/m/n/14.4 При обработке экспериментальных данных были решены следующи
-е задачи 
+[28]
+Overfull \hbox (3.6647pt too wide) in paragraph at lines 20--21
+\T2A/cmr/m/n/14.4 пользованиея языка веб-программирования PHP (который является
+ основным
  []
 
 
-Overfull \hbox (3.50351pt too wide) in paragraph at lines 33--34
-[]\T2A/cmr/m/n/14.4 согласно разработанным алгоритмам была проведена оценка пар
-аметров
- []
-
-) (./Ch5.tex [29]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 6.
-
-Overfull \hbox (3.4551pt too wide) in paragraph at lines 4--5
-\T2A/cmr/m/n/14.4 фиксировать время, которое студент затрачивает при решении за
-дач в системе
- []
-
-) (./Ch6.tex
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-[30
-
-]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 7.
-) (./Ch7.tex
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1.
-
-[31
-
-]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 8.
-
-Overfull \hbox (2.14185pt too wide) in paragraph at lines 5--8
-\T2A/cmr/m/n/14.4 раммный продукт, готовый для продажи на рынке программного об
-еспечения.
+Overfull \hbox (5.89148pt too wide) in paragraph at lines 31--32
+\T2A/cmr/m/n/14.4 язык программирования Python и библиотека статистических мето
+дов stats.py. 
  []
 
 
-Overfull \hbox (2.1142pt too wide) in paragraph at lines 5--8
-\T2A/cmr/m/n/14.4 МАИ. Исходя из затрат формируется стоимость проекта в целом. 
-По результа-
+Overfull \hbox (0.98877pt too wide) in paragraph at lines 35--36
+\T2A/cmr/m/n/14.4 мени тестов. Для корректной оценки знаний учащихся необходимо
+ проведение
  []
 
 
-Overfull \hbox (1.94283pt too wide) in paragraph at lines 5--8
-\T2A/cmr/m/n/14.4 там оценки стоимости проекта производится расчјт экономическо
-й эффектив-
+Overfull \hbox (3.08627pt too wide) in paragraph at lines 35--36
+\T2A/cmr/m/n/14.4 время проведения рубежного контроля ограничено - поэтому важн
+о подобрать
+ []
+
+[29] [30]) (./Ch5.tex
+Overfull \hbox (5.16338pt too wide) in paragraph at lines 90--1
+\T2A/cmr/m/n/14.4 деление, то и линейная комбинация (которая входит в вероятнос
+тное ограниче-
  []
 
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 15.
+Overfull \hbox (1.18886pt too wide) in paragraph at lines 4--5
+\T2A/cmr/m/n/14.4 дистанционного обучения. Формулируется математическая вероятн
+остная мо-
+ []
 
+
+Overfull \hbox (0.81416pt too wide) in paragraph at lines 6--7
+[]\T2A/cmr/m/n/14.4 Корректность модели и степень еј применимости проверяется н
+а реальных
+ []
+
+[31]) (./Ch7.tex [32]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
 [32
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]|\T2A/cmr/m/n/6 Изучение литературы по
+] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T2A/cmr/m/n/8 Изучение литературы по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]|\T2A/cmr/m/n/6 Изучение литературы по
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\T2A/cmr/m/n/8 Изучение литературы по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|\T2A/cmr/m/n/6 Анализ структуры и
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\T2A/cmr/m/n/8 Изучение литературы по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|\T2A/cmr/m/n/6 Получен список
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\T2A/cmr/m/n/8 Окончание доработки
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-\T2A/cmr/m/n/6 экспериментальных данных и
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\T2A/cmr/m/n/8 Анализ структуры и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-[]|\T2A/cmr/m/n/6 Необходимость построения
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\T2A/cmr/m/n/8 Получен список
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-[]|\T2A/cmr/m/n/6 Изучение математических
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\T2A/cmr/m/n/8 Доработка СДО
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
-[]|\T2A/cmr/m/n/6 Применение математической
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+\T2A/cmr/m/n/8 для получения
  []
 
 
-Underfull \hbox (badness 6396) in paragraph at lines 86--86
-\T2A/cmr/m/n/6 модели для анализа времени
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\T2A/cmr/m/n/8 Необходимость
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-[]|\T2A/cmr/m/n/6 Описание математической
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T2A/cmr/m/n/8 построения
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 107--107
-[]|\T2A/cmr/m/n/6 Оценка по экспериментальным
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\T2A/cmr/m/n/8 Изучение математических
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
-[]|\T2A/cmr/m/n/6 Получение результатов
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T2A/cmr/m/n/8 методов моделирования
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
-[]|\T2A/cmr/m/n/6 Построение таблиц,
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\T2A/cmr/m/n/8 Завершение
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
-\T2A/cmr/m/n/6 диаграмм, анализ
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\T2A/cmr/m/n/8 Применение
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
-[]|\T2A/cmr/m/n/6 Оформление результатов
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T2A/cmr/m/n/8 математической модели
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 146--146
-[]|\T2A/cmr/m/n/6 Раздел "Охрана труда и
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\T2A/cmr/m/n/8 Описание математической
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-[]|\T2A/cmr/m/n/6 Написание теоретического
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T2A/cmr/m/n/8 Оценка параметров
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--148
-\T2A/cmr/m/n/6 материала раздела "Охрана
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T2A/cmr/m/n/8 Оценка по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-[]|\T2A/cmr/m/n/6 Раздел "Экономическая
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\T2A/cmr/m/n/8 Применение модели к
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
-[]|\T2A/cmr/m/n/6 Написание теоретического
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|\T2A/cmr/m/n/8 Получение результатов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
-\T2A/cmr/m/n/6 материала раздела
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\T2A/cmr/m/n/8 Построение таблиц,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
-\T2A/cmr/m/n/6 "Экономическая
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\T2A/cmr/m/n/8 диаграмм, анализ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
-[]|\T2A/cmr/m/n/6 Построение сетевого
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\T2A/cmr/m/n/8 Оформление результатов
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
-[]|\T2A/cmr/m/n/6 Оформление готового
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\T2A/cmr/m/n/8 Написание теоретического
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-[]|\T2A/cmr/m/n/6 Оформление полученных
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\T2A/cmr/m/n/8 труда и окружающей
  []
 
 
-Underfull \vbox (badness 10000) detected at line 197
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]|\T2A/cmr/m/n/8 Расчет
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]|\T2A/cmr/m/n/8 Написание теоретического
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\T2A/cmr/m/n/8 материала раздела
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+\T2A/cmr/m/n/8 <<Экономическая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\T2A/cmr/m/n/8 Построение сетевого
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T2A/cmr/m/n/8 Оформление готового
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T2A/cmr/m/n/8 Оформление полученных
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 73
+ []
+
+[34]
 File: images/Setevoy_Grafik.jpg Graphic file (type eps)
-<images/Setevoy_Grafik.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 201--208
+ <images/Setevoy_Grafik.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
 
  []
 
-[33] [34]
-Overfull \hbox (1.80283pt too wide) in paragraph at lines 235--235
-[]|\T2A/cmr/m/n/6 Шифр| 
+[35]
+Overfull \hbox (2.33594pt too wide) in paragraph at lines 124--124
+[]|$\OML/cmm/m/it/10 t[]$| 
  []
 
 
-Overfull \hbox (3.02216pt too wide) in paragraph at lines 235--235
-[]|$\OML/cmm/m/it/6 t[]$| 
+Overfull \hbox (2.9642pt too wide) in paragraph at lines 124--124
+[]|$\OML/cmm/m/it/10 t[]$
  []
 
 
-Overfull \hbox (2.60007pt too wide) in paragraph at lines 235--235
-[]|$\OML/cmm/m/it/6 t[]$
+Overfull \hbox (2.40878pt too wide) in paragraph at lines 124--124
+[]|$\OML/cmm/m/it/10 t[]$| 
  []
 
 
-Overfull \hbox (2.21127pt too wide) in paragraph at lines 235--235
-[]|$\OML/cmm/m/it/6 t[]$| 
+Overfull \hbox (2.9642pt too wide) in paragraph at lines 124--124
+[]|$\OML/cmm/m/it/10 t[]$| 
  []
 
 
-Overfull \hbox (2.60007pt too wide) in paragraph at lines 235--235
-[]|$\OML/cmm/m/it/6 t[]$| 
+Overfull \hbox (2.40878pt too wide) in paragraph at lines 124--124
+[]|$\OML/cmm/m/it/10 t[]$
  []
 
 
-Overfull \hbox (2.21127pt too wide) in paragraph at lines 235--235
-[]|$\OML/cmm/m/it/6 t[]$
+Overfull \hbox (1.52849pt too wide) in paragraph at lines 124--124
+[]|$\OML/cmm/m/it/10 R[]$| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 239--239
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 126--126
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 250--250
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 128--128
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 261--261
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 130--130
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 272--272
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 132--132
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 283--283
-[]|\T2A/cmr/m/n/6 0,64| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 134--134
+[]|\T2A/cmr/m/n/10 0,64| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 294--294
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 136--136
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 305--305
-[]|\T2A/cmr/m/n/6 0,64| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 138--138
+[]|\T2A/cmr/m/n/10 0,64| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 316--316
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 140--140
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 327--327
-[]|\T2A/cmr/m/n/6 0,64| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 142--142
+[]|\T2A/cmr/m/n/10 0,64| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 338--338
-[]|\T2A/cmr/m/n/6 0,04| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 144--144
+[]|\T2A/cmr/m/n/10 0,04| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 349--349
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 146--146
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 360--360
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 148--148
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 371--371
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 150--150
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 382--382
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 152--152
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 393--393
-[]|\T2A/cmr/m/n/6 0,16| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 154--154
+[]|\T2A/cmr/m/n/10 0,16| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 404--404
-[]|\T2A/cmr/m/n/6 0,16| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 156--156
+[]|\T2A/cmr/m/n/10 0,16| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 415--415
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 158--158
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Overfull \hbox (1.72697pt too wide) in paragraph at lines 426--426
-[]|\T2A/cmr/m/n/6 0,36| 
+Overfull \hbox (3.54707pt too wide) in paragraph at lines 160--160
+[]|\T2A/cmr/m/n/10 0,36| 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 435
+Underfull \vbox (badness 10000) detected at line 162
  []
 
 
-Overfull \hbox (1.55247pt too wide) in paragraph at lines 437--438
+Overfull \hbox (1.55247pt too wide) in paragraph at lines 166--167
 \T2A/cmr/m/n/14.4 дисперсий работ, лежащих на критическом пути, составляет 4.08
 . Среднеквад-
  []
 
-[35]
-Overfull \hbox (0.58942pt too wide) in paragraph at lines 448--450
-\T2A/cmr/m/n/14.4 моделей с использованием сервиса Яндекс.Маркет (http://market
-.yandex.ru/).
- []
-
-
-Overfull \hbox (2.45993pt too wide) in paragraph at lines 455--455
-[]\T2A/cmr/m/n/14.4 Характеристика| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--458
-[]\T2A/cmr/m/n/14.4 Lenovo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--458
-\T2A/cmr/m/n/14.4 THINKPAD
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 459--459
-[]\T2A/cmr/m/n/14.4 DELL Vostro
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
-[]\T2A/cmr/m/n/14.4 Samsung
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 462--462
-[]\T2A/cmr/m/n/14.4 Операционная
- []
-
-
-Underfull \hbox (badness 7344) in paragraph at lines 463--463
-[]\T2A/cmr/m/n/14.4 Win 7 Pro-fes-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--466
-[]\T2A/cmr/m/n/14.4 Win 7 Home
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
-[]\T2A/cmr/m/n/14.4 Частота
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
-\T2A/cmr/m/n/14.4 процессора
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[]\T2A/cmr/m/n/14.4 Размер
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-\T2A/cmr/m/n/14.4 оперативной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--487
-[]\T2A/cmr/m/n/14.4 Объјм
- []
-
-
-Overfull \hbox (4.75565pt too wide) in paragraph at lines 498--498
-[]\T2A/cmr/m/n/14.4 интегрированная| 
- []
-
-
-Overfull \hbox (4.75565pt too wide) in paragraph at lines 499--499
-[]\T2A/cmr/m/n/14.4 интегрированная| 
- []
-
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 532--532
-[]\T2A/cmr/m/n/14.4 Анализ
- []
-
-
-Overfull \hbox (3.2222pt too wide) in paragraph at lines 536--536
-[]\T2A/cmr/m/n/14.4 Проектирование
- []
-
-
-Overfull \hbox (0.59666pt too wide) in paragraph at lines 554--556
-\T2A/cmr/m/n/14.4 рабочий день, в качестве помещения для разработки будет испол
-ьзован ковор-
- []
-
-
-Overfull \hbox (5.922pt too wide) in paragraph at lines 554--556
-\T2A/cmr/m/n/14.4 программиста район). Ссылка на сайт центра: http://www.matrix
-office.ru. Ком-
- []
-
-[37]
-Underfull \hbox (badness 1418) in paragraph at lines 561--561
-[]\T2A/cmr/m/n/14.4 Число рабочих
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 564--564
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []\T2A/cmr/m/n/14.4 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 564--564
-\T2A/cmr/m/n/14.4 рабочих часов
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[]\T2A/cmr/m/n/14.4 Пачка бумаги
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 567--567
-[]\T2A/cmr/m/n/14.4 Полное число
- []
-
-
-Overfull \hbox (2.70685pt too wide) in paragraph at lines 586--587
-\T2A/cmr/m/n/14.4 водитель, программист, консультанты. Для каждого специалиста 
-вычисляется
- []
-
-
-Overfull \hbox (3.61307pt too wide) in paragraph at lines 594--594
+[37]
+Overfull \hbox (3.61307pt too wide) in paragraph at lines 215--215
 []\T2A/cmr/m/n/14.4 Заработ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 594--594
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 \T2A/cmr/m/n/14.4 ная
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 []\T2A/cmr/m/n/14.4 Коли-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 595--595
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 \T2A/cmr/m/n/14.4 чество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 596--596
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 []\T2A/cmr/m/n/14.4 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 596--596
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 \T2A/cmr/m/n/14.4 часов на
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 596--596
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 \T2A/cmr/m/n/14.4 одного
  []
 
 
-Overfull \hbox (6.31094pt too wide) in paragraph at lines 597--597
+Overfull \hbox (6.31094pt too wide) in paragraph at lines 215--215
 []\T2A/cmr/m/n/14.4 Почасовая
  []
 
 
-Overfull \hbox (3.61307pt too wide) in paragraph at lines 598--599
+Overfull \hbox (3.61307pt too wide) in paragraph at lines 215--216
 []\T2A/cmr/m/n/14.4 Заработ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--599
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 \T2A/cmr/m/n/14.4 ная
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 600--600
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 []\T2A/cmr/m/n/14.4 Научный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 607--607
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
 \T2A/cmr/m/n/14.4 экономической
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 614--614
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
 \T2A/cmr/m/n/14.4 окружающей
+ []
+
+
+Overfull \hbox (1.37418pt too wide) in paragraph at lines 209--229
+\T2A/cmr/m/n/14.4 ционном институте за 2013 г. Оплата для студента, выполняющег
+о дипломную
  []
 
 [38]
-Overfull \hbox (4.22437pt too wide) in paragraph at lines 639--640
-\T2A/cmr/m/n/14.4 каждый из работников затрачивает денежные средства на то, что
-бы добраться
+Overfull \hbox (1.01161pt too wide) in paragraph at lines 237--238
+[]\T2A/cmr/m/n/14.4 Основным оборудованием (средством производства) является но
+утбук DE-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--647
-[]\T2A/cmr/m/n/14.4 Количество
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 648--648
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
 []\T2A/cmr/m/n/14.4 Стоимость
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--648
-\T2A/cmr/m/n/14.4 1-ой
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 651--651
-[]\T2A/cmr/m/n/14.4 Научный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 656--656
-\T2A/cmr/m/n/14.4 экономической
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 663--663
-\T2A/cmr/m/n/14.4 окружающей
- []
-
-[39]
-Underfull \hbox (badness 10000) in paragraph at lines 703--703
-[]\T2A/cmr/m/n/14.4 Стоимость
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 707--707
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
 []\T2A/cmr/m/n/14.4 Годовая норма
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--711
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
 []\T2A/cmr/m/n/14.4 Время работы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 715--715
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
 []\T2A/cmr/m/n/14.4 Эффективный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 715--715
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
 \T2A/cmr/m/n/14.4 срок работы
  []
 
-[40]
-Overfull \hbox (2.33183pt too wide) in paragraph at lines 754--755
-[]\T2A/cmr/m/n/14.4 К накладным расходам относятся затраты, не связанные прямо 
-с разработ-
- []
-
-[41]
-Overfull \hbox (0.60655pt too wide) in paragraph at lines 763--764
-\T2A/cmr/m/n/14.4 имость продукта, его цену продажи, а так же экономический эфф
-ект, который
- []
-
-
-Overfull \hbox (2.49681pt too wide) in paragraph at lines 767--772
-\T2A/cmr/m/n/14.4 имость. Се-бестоимость продукта с определяется как сумма всех
- затрат, вычис-
- []
-
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 799--799
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
 []\T2A/cmr/m/n/14.4 Количество
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 803--803
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
+[]\T2A/cmr/m/n/14.4 Стоимость
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
+\T2A/cmr/m/n/14.4 1-ой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--298
+[]\T2A/cmr/m/n/14.4 Научный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T2A/cmr/m/n/14.4 экономической
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\T2A/cmr/m/n/14.4 окружающей
+ []
+
+[40]
+Overfull \hbox (0.60655pt too wide) in paragraph at lines 346--347
+\T2A/cmr/m/n/14.4 имость продукта, его цену продажи, а так же экономический эфф
+ект, который
+ []
+
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]\T2A/cmr/m/n/14.4 Количество
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
 []\T2A/cmr/m/n/14.4 Доля
  []
 
 
-Overfull \hbox (4.23627pt too wide) in paragraph at lines 803--803
+Overfull \hbox (4.23627pt too wide) in paragraph at lines 383--383
 \T2A/cmr/m/n/14.4 воспользовавшихся
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 807--807
+Underfull \hbox (badness 5374) in paragraph at lines 385--385
 \T2A/cmr/m/n/14.4 доп. занятия на
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 811--811
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
 []\T2A/cmr/m/n/14.4 Количество доп.
  []
 
 [43]
-Overfull \hbox (6.52315pt too wide) in paragraph at lines 854--855
+Overfull \hbox (6.52315pt too wide) in paragraph at lines 428--429
 []\T2A/cmr/m/n/14.4 Таким образом средства, вложенные в систему, будут возвраще
 ны в течение
  []
 
+) (./Ch8.tex
+Underfull \hbox (badness 10000) in paragraph at lines 437--1
 
-Overfull \hbox (2.70518pt too wide) in paragraph at lines 859--860
-\T2A/cmr/m/n/14.4 найден критический путь и рассчитаны параметры сетевой модели
- для каждо-
  []
 
-) (./Ch8.tex [44]
-{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 9.
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 17.
-
-[45
+[44]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
+[44
 
 ]
-Overfull \hbox (0.44298pt too wide) in paragraph at lines 28--29
+Overfull \hbox (0.44298pt too wide) in paragraph at lines 31--32
 []\T2A/cmr/m/n/14.4 Помещение, в котором проводятся занятия, оснащено персональ
 ными ком-
  []
 
-
-Overfull \hbox (1.4156pt too wide) in paragraph at lines 30--31
+[45]
+Overfull \hbox (1.4156pt too wide) in paragraph at lines 33--34
 []\T2A/cmr/m/n/14.4 системный блок (основные комплектующие, производящие шумово
 е воз-
  []
 
 
-Overfull \hbox (12.07953pt too wide) in paragraph at lines 43--60
+Overfull \hbox (12.07953pt too wide) in paragraph at lines 47--64
  [] 
  []
 
 [46]
-Overfull \hbox (3.90215pt too wide) in paragraph at lines 91--91
+Overfull \hbox (3.90215pt too wide) in paragraph at lines 96--96
 []\T2A/cmr/m/n/14.4 Температура
  []
 
 
-Overfull \hbox (3.9545pt too wide) in paragraph at lines 91--91
+Overfull \hbox (3.9545pt too wide) in paragraph at lines 96--96
 []\T2A/cmr/m/n/14.4 Относительная
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 []\T2A/cmr/m/n/14.4 Скорость
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 \T2A/cmr/m/n/14.4 движения
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 \T2A/cmr/m/n/14.4 воздуха,
  []
 
 
-Overfull \hbox (2.04858pt too wide) in paragraph at lines 93--93
+Overfull \hbox (2.04858pt too wide) in paragraph at lines 98--98
 []\T2A/cmr/m/n/14.4 ГОСТ| 
  []
 
 
-Overfull \hbox (2.04858pt too wide) in paragraph at lines 97--97
+Overfull \hbox (2.04858pt too wide) in paragraph at lines 102--102
 []\T2A/cmr/m/n/14.4 ГОСТ| 
  []
 
-[47]
-Overfull \hbox (5.17574pt too wide) in paragraph at lines 105--106
+
+Overfull \hbox (5.17574pt too wide) in paragraph at lines 110--111
 \T2A/cmr/m/n/14.4 ниям ГОСТ. 12.01.005-88, поэтому необходимо рассчитать параме
 тры кондици-
  []
 
 
-Overfull \hbox (1.58344pt too wide) in paragraph at lines 109--110
+Overfull \hbox (1.58344pt too wide) in paragraph at lines 114--115
 []\T2A/cmr/m/n/14.4 Правильно спроектированное и рационально исполненное освеще
 ние помо-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 []\T2A/cmr/m/n/14.4 в т.ч. от
  []
 
 
-Overfull \hbox (6.52132pt too wide) in paragraph at lines 129--130
+Overfull \hbox (6.52132pt too wide) in paragraph at lines 135--136
 []\T2A/cmr/m/n/14.4 Показатели помещения соответствуют значениям СаНПиН 2.2.1/2
 .1.1.1278-
  []
 
 [48]
-Overfull \hbox (2.13495pt too wide) in paragraph at lines 146--147
+Overfull \hbox (2.13495pt too wide) in paragraph at lines 152--153
 \T2A/cmr/m/n/14.4 ности шума, функционального состояния нервной системы человек
 а и индиви-
  []
 
+
+Overfull \hbox (3.06712pt too wide) in paragraph at lines 152--153
+\T2A/cmr/m/n/14.4 теля (что очень важно - например, женский и детский организм 
+более чувстви-
+ []
+
 [49]
-Overfull \hbox (3.85223pt too wide) in paragraph at lines 150--151
+Overfull \hbox (3.85223pt too wide) in paragraph at lines 156--157
 []\T2A/cmr/m/n/14.4 Уровень звукового давления принято измерять в децибелах (дБ
 ). Децибелл
  []
 
 [50]
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []\T2A/cmr/m/n/14.4 Деятельность:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 []\T2A/cmr/m/n/14.4 Уровень
  []
 
-[51]
-Overfull \hbox (2.69713pt too wide) in paragraph at lines 215--216
+
+Overfull \hbox (2.69713pt too wide) in paragraph at lines 222--223
 \T2A/cmr/m/n/14.4 линейной зави-симости. Причина - в эффекте резонанса. Если вн
 ешняя частота
  []
 
-
-Overfull \hbox (3.85834pt too wide) in paragraph at lines 219--220
+[51]
+Overfull \hbox (3.85834pt too wide) in paragraph at lines 226--227
 \T2A/cmr/m/n/14.4 вергающихся вибрации, отме-чают головокружения, снижение остр
 оты зрения. 
  []
 
 
-Overfull \hbox (25.74959pt too wide) in paragraph at lines 227--227
-[]\T2A/cmr/m/n/14.4 Среднегеометрические
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]\T2A/cmr/m/n/14.4 Среднегеом.
  []
 
 
-Overfull \hbox (2.82031pt too wide) in paragraph at lines 231--231
+Overfull \hbox (2.82031pt too wide) in paragraph at lines 239--239
 []$\OT1/cmr/m/n/14.4 10[][][]\OML/cmm/m/it/14.4 =[]$| 
  []
 
 
-Overfull \hbox (2.82031pt too wide) in paragraph at lines 231--231
+Overfull \hbox (2.82031pt too wide) in paragraph at lines 239--239
 []$\OT1/cmr/m/n/14.4 10[][][]\OML/cmm/m/it/14.4 =[]$| 
  []
 
 
-Overfull \hbox (0.24298pt too wide) in paragraph at lines 245--246
+Overfull \hbox (0.24298pt too wide) in paragraph at lines 253--254
 \T2A/cmr/m/n/14.4 зирующие излу-чения. Среди неионизирующих в свою очередь выде
 ляют элек-
  []
 
-[52]
-Overfull \hbox (1.58778pt too wide) in paragraph at lines 249--250
+
+Overfull \hbox (1.58778pt too wide) in paragraph at lines 257--258
 []\T2A/cmr/m/n/14.4 Пребывание в электрическом поле напряжјнностью до $\OT1/cmr
 /m/n/14.4 5$ \T2A/cmr/m/n/14.4 кВ/м допускается
  []
 
-
-Overfull \hbox (11.4546pt too wide) in paragraph at lines 261--262
-\T2A/cmr/m/n/14.4 миологических нормах СанПиН 2.2.2/2.4.1340-03 <<НАЗВАНИЕ>>. Р
-абочее место
- []
-
-
-Overfull \hbox (9.18585pt too wide) in paragraph at lines 261--262
-\T2A/cmr/m/n/14.4 студента должно отвечать требованиям, обеспечивающим достаточ
-ную степень
- []
-
-
-Overfull \hbox (6.70576pt too wide) in paragraph at lines 261--262
-\T2A/cmr/m/n/14.4 эрго-номичности. Для обеспечения этих требований должны выпол
-няться опре-
- []
-
-[53] [54]
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-[]|\T2A/cmr/m/n/14.4 Класс
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
-\T2A/cmr/m/n/14.4 условий
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-[]|\T2A/cmr/m/n/14.4 1.2.Распределение
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-\T2A/cmr/m/n/14.4 функций по степени
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-[]|\T2A/cmr/m/n/14.4 Обработка, выполнение
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-[]|\T2A/cmr/m/n/14.4 1.3.Характер
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\T2A/cmr/m/n/14.4 графику с возможной
- []
-
-
-Underfull \hbox (badness 3942) in paragraph at lines 310--310
-\T2A/cmr/m/n/14.4 его коррекцией по ходу
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--314
-[]|\T2A/cmr/m/n/14.4 2.1.Длительность
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--314
-\T2A/cmr/m/n/14.4 сосредоточенного
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-[]|\T2A/cmr/m/n/14.4 2.2.Наблюдение
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-\T2A/cmr/m/n/14.4 за экранами
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
-[]|\T2A/cmr/m/n/14.4 З.1.Степень
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
-\T2A/cmr/m/n/14.4 ответственности за
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
-\T2A/cmr/m/n/14.4 результат собственной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
-\T2A/cmr/m/n/14.4 деятельности.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
-[]|\T2A/cmr/m/n/14.4 Несет ответственность
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
-\T2A/cmr/m/n/14.4 за функциональное
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--320
-\T2A/cmr/m/n/14.4 качество выполения
+[52] [53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+[]|\T2A/cmr/m/n/10 Класс условий
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 322--322
-[]|\T2A/cmr/m/n/14.4 3.4.Количество
+[]|\T2A/cmr/m/n/10 Решение простых задач по
  []
 
 
-Underfull \hbox (badness 4254) in paragraph at lines 322--322
-\T2A/cmr/m/n/14.4 конфликтных ситуаций
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
-[]|\T2A/cmr/m/n/14.4 4.1. Число элементов
+Underfull \hbox (badness 10000) in paragraph at lines 324--324
+[]|\T2A/cmr/m/n/10 1.2.Распределение функций по
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 326--326
-\T2A/cmr/m/n/14.4 для реализации
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
-\T2A/cmr/m/n/14.4 простого задания
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
-\T2A/cmr/m/n/14.4 или в многократно
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
-\T2A/cmr/m/n/14.4 повторяющихся
- []
-
-
-Overfull \hbox (2.98894pt too wide) in paragraph at lines 326--327
-[]|\T2A/cmr/m/n/14.4 Оптимальный| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--328
-\T2A/cmr/m/n/14.4 (в сек) выполнения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--328
-\T2A/cmr/m/n/14.4 простых заданий
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--328
-\T2A/cmr/m/n/14.4 или повторяющихся
- []
-
-
-Overfull \hbox (2.98894pt too wide) in paragraph at lines 328--329
-[]|\T2A/cmr/m/n/14.4 Оптимальный| 
+[]|\T2A/cmr/m/n/10 1.3.Характер выполняемой
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 330--330
-[]|\T2A/cmr/m/n/14.4 4.3. Время активных
+[]|\T2A/cmr/m/n/10 2.1.Длительность
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 330--330
-\T2A/cmr/m/n/14.4 действий (в % к
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 330--330
-\T2A/cmr/m/n/14.4 продолжительности
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 330--330
-\T2A/cmr/m/n/14.4 смены). В остальное
+\T2A/cmr/m/n/10 сосредоточенного
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 332--332
-[]|\T2A/cmr/m/n/14.4 Монотонность
+[]|\T2A/cmr/m/n/10 2.2.Наблюдение за экранами
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--332
-\T2A/cmr/m/n/14.4 производственной
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\T2A/cmr/m/n/10 З.1.Степень ответственности
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--332
-\T2A/cmr/m/n/14.4 обстановки (время
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\T2A/cmr/m/n/10 за результат собственной
  []
 
 
-Underfull \vbox (badness 10000) detected at line 334
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\T2A/cmr/m/n/10 деятельности. Значимость
  []
 
-[55] [56] [57] [58]) (./Outro.tex) (./Litr.tex [59]
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 15.
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+[]|\T2A/cmr/m/n/10 Несет ответственность за
+ []
 
-[60
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
+\T2A/cmr/m/n/10 заданий. Влечет за собой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
+[]|\T2A/cmr/m/n/10 3.4.Количество конфликтных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T2A/cmr/m/n/10 необходимых для реализации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T2A/cmr/m/n/10 простого задания или в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T2A/cmr/m/n/10 многократно повторяющихся
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 348--348
+[]|\T2A/cmr/m/n/10 Монотонность производственной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+\T2A/cmr/m/n/10 обстановки (время пассивного
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 350
+ []
+
+[55] [56]
+Overfull \hbox (0.41858pt too wide) in paragraph at lines 432--433
+\T2A/cmr/m/n/14.4 труда, кроме параметров микроклимата. После проведения расчјт
+ов парамет-
+ []
+
+[57]) (./Ch6.tex [58]
+Overfull \hbox (3.07948pt too wide) in paragraph at lines 8--9
+\T2A/cmr/m/n/14.4 эффекта. Был сделан вывод о сроке окупаемости системы и еј ин
+вестиционной
+ []
+
+
+Overfull \hbox (3.25764pt too wide) in paragraph at lines 12--13
+\T2A/cmr/m/n/14.4 для прохождения теста, оценка вероятности выполнения теста в 
+срок и другие.
+ []
+
+[59
+
+]) (./Litr.tex [60]
+Underfull \hbox (badness 1852) in paragraph at lines 6--7
+[]\T2A/cmr/m/it/14.4 Интернет-портал дистанционного образования МГУ: [Электронн
+ый
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\T2A/cmr/m/it/14.4 ресурс] // Управление развития, перспективных проектов и
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 6--7
+\T2A/cmr/m/it/14.4 непрерывного образования МГУ\T2A/cmr/m/n/14.4 , 2014 г. Режи
+м доступа свободный:
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 7--8
+\T2A/cmr/m/it/14.4 [Электронный ресурс] // Московский институт лингвистики\T2A/
+cmr/m/n/14.4 , 2014
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 7--8
+\T2A/cmr/m/n/14.4 г. Режим доступа свободный: http://www.inyaz-mil.ru/courses/f
+ormi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\T2A/cmr/m/it/14.4 Центр онлайн-обучения в МЭСИ: [Электронный ресурс]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+\T2A/cmr/m/it/14.4 // Московский государственный университет экономики,
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 8--9
+\T2A/cmr/m/it/14.4 статистики и информатики\T2A/cmr/m/n/14.4 , 2014 г. Режим до
+ступа свободный:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]\T2A/cmr/m/it/14.4 Межвузовская площадка электронного образования Универсариу
+м:
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 11--12
+\T2A/cmr/m/it/14.4 [Электронный ресурс] // Универсариум\T2A/cmr/m/n/14.4 , 2014
+ г. Режим доступа
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+\T2A/cmr/m/it/14.4 заданий в системах дистанционного обучения. // Вестник
+ []
+
+[61
 
 ]
-Underfull \hbox (badness 1975) in paragraph at lines 15--16
-[]\T2A/cmr/m/it/14.4 С.В. Белов, В.А. Девисилов, А.В, Ильницкая и др. \T2A/cmr/
-m/n/14.4 Безопасность
+Underfull \hbox (badness 1152) in paragraph at lines 14--15
+\T2A/cmr/m/it/14.4 на основе метода максимального правдоподобия. // Автоматика 
+и
  []
 
-) [61] (./DiplomProject.aux)
 
-LaTeX Warning: There were undefined references.
+Underfull \hbox (badness 5022) in paragraph at lines 15--16
+\T2A/cmr/m/it/14.4 с помощью статистической обработки результатов тестов. //
+ []
 
+[62] [63]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+[]\T2A/cmr/m/it/14.4 информационно-аналитический ресурс, посвященный машинному
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 43--44
+[]\T2A/cmr/m/n/14.4 С.В. Белов, В.А. Девисилов, А.В, Ильницкая и др., \T2A/cmr/
+m/it/14.4 Безопасность
+ []
+
+) [64] (./DiplomProject.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3804 strings out of 495064
- 45949 string characters out of 3182218
- 156901 words of memory out of 3000000
- 6857 multiletter control sequences out of 15000+200000
- 23721 words of font info for 61 fonts, out of 3000000 for 9000
+ 4120 strings out of 495064
+ 49766 string characters out of 3182218
+ 162896 words of memory out of 3000000
+ 7167 multiletter control sequences out of 15000+200000
+ 24926 words of font info for 63 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 27i,11n,48p,2094b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,11n,43p,2116b,474s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on DiplomProject.dvi (61 pages, 195960 bytes).
+Output written on DiplomProject.dvi (67 pages, 234100 bytes).

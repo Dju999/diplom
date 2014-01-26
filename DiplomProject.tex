@@ -7,8 +7,9 @@
 \graphicspath{{images/}}%путь к рисункам
 \usepackage{indentfirst}%отступ первого абзаца после названия главы
 
+ % Заменяем библиографию с квадратных скобок на точку
 \makeatletter
-\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\renewcommand{\@biblabel}[1]{#1.}
 \makeatother
 
 %для таблиц длиннее, чем на страницу
@@ -31,7 +32,7 @@
 %\renewcommand{\theenumiii}{.\arabic{enumiii}}% Меняем везде перечисления на цифра.цифра
 %\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}% Меняем везде перечисления на цифра.цифра
 
-\setcounter{secnumdepth}{3}% уровень вложенности счётчиков
+\setcounter{secnumdepth}{4}% уровень вложенности счётчиков
 
 %полуторный интервал между строками
 %\renewcommand{\baselinestretch}{1.5}% вроде как плохой метод, т.к. растягивает заголовки и сноски, чего лучше не делать
@@ -52,12 +53,6 @@
 \renewcommand{\footrulewidth}{0pt}
 }
 
-%попытка запилить Times New Roman
-%\usepackage{pscyr}
-%\renewcommand{\rmdefault}{ftm}
-%\usepackage{mathptmx}
-%\usepackage{cyrtimes}
-
 %для большой таблицы
 \newenvironment{myTable}%
 {%
@@ -72,16 +67,27 @@
 %для большой таблицы
 \newenvironment{myTableSecond}%
 {%
-    \tiny
+    \scriptsize
     \begin{longtable}[H]{|p{0.7cm}|p{0.4cm}|p{0.4cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|p{0.9cm}|}
+	\caption{Параметры сетевой модели}\\
+	\label{psm}
     \hline
 }%
 {%
     \end{longtable}
 }%
 
+%название главы по центру
+\usepackage {titlesec}
+\titleformat{\chapter}{\thispagestyle{myheadings}\centering\hyphenpenalty=10000\normalfont\huge\bfseries}{
+\thechapter. }{0pt}{\Huge}
+\makeatother
+
+
 \begin{document}
 \input{DiplomProject-Title}% это титульный лист
+%реферат
+\input{referat}
 %Содержание
 \renewcommand{\contentsname}{Содержание} 
 %нумерация начинается со второй страницы
@@ -93,9 +99,8 @@
 \input{Ch3}
 \input{Ch4}
 \input{Ch5}
-\input{Ch6}
 \input{Ch7}
 \input{Ch8}
-\input{Outro}
+\input{Ch6}
 \input{Litr}
 \end{document} 
